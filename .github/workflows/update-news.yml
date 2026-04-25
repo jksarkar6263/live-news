@@ -1,7 +1,7 @@
 name: Update News
 
 permissions:
-  contents: write
+  contents: write   # allow workflow to commit changes
 
 on:
   schedule:
@@ -12,11 +12,13 @@ jobs:
   update-news:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 24   # future-proof
 
       - name: Fetch News
         run: node scripts/fetchNews.js
