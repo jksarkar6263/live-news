@@ -1,1 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Ticker</title>
+
+<style>
+body {
+  margin: 0;
+  background: #fff;
+  font-family: Arial, sans-serifl;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  height: 24px;
+  background:  #002550;
+  color: #fff;
+  align-items: center;
+}
+
+.left-label {
+  width: 130px;
+  min-width: 130px;
+  background: #002550;
+  text-align: center;
+  font-weight: bold;
+  padding: 3px 1px;
+  font-size: 9px;
+}
+
+.ticker-wrapper {
+  flex-grow: 1;
+      border: 0px solid #ccc;
+      overflow: hidden;
+      padding: 3px 0;
+      box-sizing: border-box;
+      height: 24px;
+      display: flex;
+      align-items: center;
+}
+
+.ticker-text {
+  display: inline-block;
+  padding-left: 100%;
+  animation: scroll var(--ticker-speed) linear infinite;
+  font-size: 12px;
+  line-height: 20px;
+  white-space: nowrap;
+  animation-play-state: running; /* default */
+}
+
+/* Pause on hover */
+.ticker-wrapper:hover .ticker-text {
+  animation-play-state: paused;
+}
+
+/* ⭐ SPEED CONTROL — Increase speed (slower scroll) */
+:root {
+  --ticker-speed: 155s;   /* 35s = slow | 20s = medium | 10s = fast */
+}
+
+@keyframes scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+  <div class="left-label"><i>jayfromstockmarketsinindia</i></div>
+
+  <div class="ticker-wrapper">
+    <div class="ticker-text" id="ticker"></div>
+  </div>
+
+</div>
+
+<script>
+async function loadTicker() {
+  try {
+    const r = await fetch("https://jksarkar6263.github.io/live-news/data/news.json");
+
+    const j = await r.json();
+
+    console.log("NEWS RECEIVED:", j);
+
+    const all = [
+      ...(j.general || [15]).map(n => n.headline).filter(Boolean),
+      ...(j.derivative || [4]).map(n => n.headline).filter(Boolean)
+    ];
+
+   
+    if (all.length === 0) {
+      document.getElementById("ticker").textContent = "No news available.";
+      return;
+    }
+
+   const text = all.join("     |     ");
+    const ticker = document.getElementById("ticker");
+
+    // Remove animation, update text, reapply animation (forces restart)
+    ticker.style.animation = "none";
+    ticker.offsetHeight;  // trigger reflow
+    ticker.textContent = text;
+    ticker.style.animation = "";
+
+  } catch (e) {
+    document.getElementById("ticker").textContent = "Unable to load news.";
+  }
+}
+
+loadTicker();
+setInterval(loadTicker, 10 * 60 * 1000);
+</script>
+
+</body>
+</html>
 
