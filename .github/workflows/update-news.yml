@@ -20,6 +20,9 @@ jobs:
         with:
           node-version: 24   # future-proof
 
+      - name: Install dependencies
+        run: npm install cheerio
+
       - name: Fetch News
         run: node scripts/fetchNews.js
 
