@@ -1,5 +1,8 @@
 name: Update News
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "*/30 * * * *"   # every 30 minutes
@@ -9,11 +12,11 @@ jobs:
   update-news:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Fetch News
         run: node scripts/fetchNews.js
