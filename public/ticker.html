@@ -85,7 +85,6 @@ body {
 async function loadTicker() {
   try {
     const r = await fetch("https://jksarkar6263.github.io/live-news/data/news.json");
-
     const j = await r.json();
 
     console.log("NEWS RECEIVED:", j);
