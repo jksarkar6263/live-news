@@ -85,7 +85,7 @@
     async function loadTicker() {
       try {
         const r = await fetch("https://jksarkar6263.github.io/live-news/data/news.json");
-        const json = await res.json();
+        const json = await r.json();
 
         const items = (json.general || []).slice(0, 15);
 
