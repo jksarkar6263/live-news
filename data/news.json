@@ -1,6 +1,26 @@
 {
   "general": [
     {
+      "headline": "Indian Hume Pipe Company secures LoA worth Rs 458.69 crore",
+      "date": "29-04-2026 18:25"
+    },
+    {
+      "headline": "Vedanta reports 92% jump in Q4 consolidated net profit",
+      "date": "29-04-2026 18:09"
+    },
+    {
+      "headline": "Manali Petrochemicals’ step-down arm inaugurates manufacturing facility in Chennai",
+      "date": "29-04-2026 17:59"
+    },
+    {
+      "headline": "Dhruv Consultancy Services gets LoA worth Rs 2.84 crore",
+      "date": "29-04-2026 17:43"
+    },
+    {
+      "headline": "Omaxe Group to invest Rs 250 crore to develop premium residential project in Lucknow",
+      "date": "29-04-2026 17:16"
+    },
+    {
       "headline": "Neopolitan Pizza opens latest outlet ‘Neopolitan Pizza Express’ in Gujarat",
       "date": "29-04-2026 16:58"
     },
@@ -19,29 +39,13 @@
     {
       "headline": "Federal Bank reports 23% rise in Q4FY26 consolidated net profit",
       "date": "29-04-2026 16:00"
-    },
-    {
-      "headline": "Avio Smart Market Stack, Huwel Lifesciences to launch affordable RT-PCR platform 'Cubo'",
-      "date": "29-04-2026 15:51"
-    },
-    {
-      "headline": "Granules India reports 33% rise in Q4 consolidated net profit",
-      "date": "29-04-2026 15:42"
-    },
-    {
-      "headline": "Orkla India’s MTR Foods launches MTR Minute Fresh Batter range in Hyderabad",
-      "date": "29-04-2026 15:30"
-    },
-    {
-      "headline": "Bandhan Bank reports 68% jump in Q4FY26 net profit",
-      "date": "29-04-2026 15:21"
-    },
-    {
-      "headline": "Magellanic Cloud forms JV to manufacture advanced UAV systems",
-      "date": "29-04-2026 15:10"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends higher on Wednesday",
+      "date": "29-04-2026 17:10"
+    },
     {
       "headline": "Nifty May 2026 futures close at premium of 54.35 points over spot closing",
       "date": "29-04-2026 16:14"
@@ -53,11 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 7,08,83,163.68 crore on April 28",
       "date": "29-04-2026 09:05"
-    },
-    {
-      "headline": "Nifty ends lower amid rising crude oil prices",
-      "date": "28-04-2026 17:35"
     }
   ],
-  "lastUpdated": "2026-04-29T11:43:46.870Z"
+  "lastUpdated": "2026-04-29T14:13:23.566Z"
 }
