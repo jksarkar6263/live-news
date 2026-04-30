@@ -1,6 +1,26 @@
 {
   "general": [
     {
+      "headline": "M&B Engineering bags order worth Rs 71.95 crore",
+      "date": "30-04-2026 18:22"
+    },
+    {
+      "headline": "Adani Ports reports 10% rise in Q4 consolidated net profit",
+      "date": "30-04-2026 17:55"
+    },
+    {
+      "headline": "Diffusion Engineers bags order worth Rs 8.16 crore",
+      "date": "30-04-2026 17:26"
+    },
+    {
+      "headline": "Shelter Pharma bags order from Taha Drugs & Chemicals Co",
+      "date": "30-04-2026 16:58"
+    },
+    {
+      "headline": "Bajaj Finserv posts 5% rise in Q4 consolidated net profit",
+      "date": "30-04-2026 16:44"
+    },
+    {
       "headline": "Brahmaputra Infrastructure emerges as L-1 bidder for Rs 81.98 crore project",
       "date": "30-04-2026 16:30"
     },
@@ -19,29 +39,13 @@
     {
       "headline": "Paras Defence wins order worth Rs 7.72 crore from DRDO",
       "date": "30-04-2026 15:27"
-    },
-    {
-      "headline": "Novateor Research to launch SmiloShine Herbafresh Toothpaste",
-      "date": "30-04-2026 15:11"
-    },
-    {
-      "headline": "Indegene reports 32% fall in Q4 consolidated net profit",
-      "date": "30-04-2026 14:55"
-    },
-    {
-      "headline": "Zydus Lifesciences incorporates wholly owned subsidiary",
-      "date": "30-04-2026 14:41"
-    },
-    {
-      "headline": "Mphasis reports 14% rise in Q4 consolidated net profit",
-      "date": "30-04-2026 14:30"
-    },
-    {
-      "headline": "ITCONS E-Solutions bags new contract worth Rs 4.21 crore",
-      "date": "30-04-2026 14:22"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends lower as crude oil prices surge",
+      "date": "30-04-2026 17:29"
+    },
     {
       "headline": "Nifty May 2026 futures close at premium of 139.15 points over spot closing",
       "date": "30-04-2026 16:17"
@@ -53,11 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 80,56,530.70 crore on April 29",
       "date": "30-04-2026 09:06"
-    },
-    {
-      "headline": "Nifty ends higher on Wednesday",
-      "date": "29-04-2026 17:10"
     }
   ],
-  "lastUpdated": "2026-04-30T11:15:17.777Z"
+  "lastUpdated": "2026-04-30T13:07:31.301Z"
 }
