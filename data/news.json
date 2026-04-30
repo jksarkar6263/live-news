@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "ACME Solar Holdings commissions additional capacity of BESS project in Rajasthan",
+      "date": "30-04-2026 09:17"
+    },
+    {
+      "headline": "Texmaco Rail & Engineering bags orders worth Rs 187.28 crore",
+      "date": "30-04-2026 09:05"
+    },
+    {
       "headline": "Indian Hume Pipe Company secures LoA worth Rs 458.69 crore",
       "date": "29-04-2026 18:25"
     },
@@ -31,17 +39,17 @@
     {
       "headline": "Ion Exchange (India) executes agreement with MANN + HUMMEL",
       "date": "29-04-2026 16:27"
-    },
-    {
-      "headline": "Indian Bank reports 6% rise in Q4FY26 consolidated net profit",
-      "date": "29-04-2026 16:13"
-    },
-    {
-      "headline": "Federal Bank reports 23% rise in Q4FY26 consolidated net profit",
-      "date": "29-04-2026 16:00"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net sellers of Rs 3947.94 crore in index futures and options segments on April 29",
+      "date": "30-04-2026 09:12"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 80,56,530.70 crore on April 29",
+      "date": "30-04-2026 09:06"
+    },
     {
       "headline": "Nifty ends higher on Wednesday",
       "date": "29-04-2026 17:10"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty May 2026 futures close at premium of 54.35 points over spot closing",
       "date": "29-04-2026 16:14"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 15968.47 crore in index futures and options segments on April 28",
-      "date": "29-04-2026 09:12"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 7,08,83,163.68 crore on April 28",
-      "date": "29-04-2026 09:05"
     }
   ],
-  "lastUpdated": "2026-04-29T23:59:55.106Z"
+  "lastUpdated": "2026-04-30T03:58:57.860Z"
 }
