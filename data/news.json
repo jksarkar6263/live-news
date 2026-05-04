@@ -1,6 +1,30 @@
 {
   "general": [
     {
+      "headline": "Lords Mark Industries launches AI-Powered Hemodialysis Centre in Ahmedabad",
+      "date": "04-05-2026 17:19"
+    },
+    {
+      "headline": "Aditya Birla Capital reports 31% jump in Q4 consolidated net profit",
+      "date": "04-05-2026 17:00"
+    },
+    {
+      "headline": "Exide Industries reports 15% rise in Q4 consolidated net profit",
+      "date": "04-05-2026 16:45"
+    },
+    {
+      "headline": "Knowledge Marine acquires prime waterfront land in Palghar",
+      "date": "04-05-2026 16:29"
+    },
+    {
+      "headline": "Ambuja Cements reports 78% rise in Q4FY26 consolidated net profit",
+      "date": "04-05-2026 16:14"
+    },
+    {
+      "headline": "Transindia Real Estate completes acquisition of 100% stake in Panchghara Logistics Parks",
+      "date": "04-05-2026 15:59"
+    },
+    {
       "headline": "Brahmaputra Infrastructure emerges as L1 bidder for Rs 25.78 crore project",
       "date": "04-05-2026 15:44"
     },
@@ -15,33 +39,17 @@
     {
       "headline": "HFCL along with arm wins orders worth Rs 84.23 crore",
       "date": "04-05-2026 14:59"
-    },
-    {
-      "headline": "Godrej Properties reports 70% rise in Q4FY26 consolidated net profit",
-      "date": "04-05-2026 14:38"
-    },
-    {
-      "headline": "Desco Infratech completes UG Power Infrastructure Project for KP Group",
-      "date": "04-05-2026 14:23"
-    },
-    {
-      "headline": "Kirloskar Pneumatic Company acquires balance 44.74% stake in subsidiary company",
-      "date": "04-05-2026 14:12"
-    },
-    {
-      "headline": "Alfa Transformers bags contract worth Rs 3.78 crore",
-      "date": "04-05-2026 13:01"
-    },
-    {
-      "headline": "Justo Realfintech secures new sales mandates worth over Rs 1,100 crore",
-      "date": "04-05-2026 12:46"
-    },
-    {
-      "headline": "Lloyds Metals & Energy commissions second Pellet Plant at Konsari in record time",
-      "date": "04-05-2026 12:32"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nitty ends higher on Monday amid ease in crude oil prices",
+      "date": "04-05-2026 17:19"
+    },
+    {
+      "headline": "Nifty May 2026 futures close at premium of 79.70 points over spot closing",
+      "date": "04-05-2026 16:26"
+    },
     {
       "headline": "FIIs were net buyers of Rs 1431.17 crore in index futures and options segments on April 30",
       "date": "02-05-2026 10:27"
@@ -49,15 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 86,26,955.61 crore on April 30",
       "date": "02-05-2026 10:22"
-    },
-    {
-      "headline": "Nifty ends lower as crude oil prices surge",
-      "date": "30-04-2026 17:29"
-    },
-    {
-      "headline": "Nifty May 2026 futures close at premium of 139.15 points over spot closing",
-      "date": "30-04-2026 16:17"
     }
   ],
-  "lastUpdated": "2026-05-04T10:19:22.881Z"
+  "lastUpdated": "2026-05-04T12:10:54.668Z"
 }
