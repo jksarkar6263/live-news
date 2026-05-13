@@ -1,6 +1,26 @@
 {
   "general": [
     {
+      "headline": "Maruti Suzuki dispatches over 3 million vehicles through railways",
+      "date": "13-05-2026 18:24"
+    },
+    {
+      "headline": "Max Estates launches ‘The Terraces’ residential project in Gurugram",
+      "date": "13-05-2026 17:50"
+    },
+    {
+      "headline": "IndiGo rolls out ‘Great Connections Fest’",
+      "date": "13-05-2026 17:24"
+    },
+    {
+      "headline": "Bajel Projects bags order for 400kV transmission line",
+      "date": "13-05-2026 16:58"
+    },
+    {
+      "headline": "VA Tech Wabag, PEAK develop first Bio-CNG plant in Ghaziabad",
+      "date": "13-05-2026 16:45"
+    },
+    {
       "headline": "Jio Financial Services, Allianz incorporate joint venture company",
       "date": "13-05-2026 16:29"
     },
@@ -9,7 +29,7 @@
       "date": "13-05-2026 16:14"
     },
     {
-      "headline": "Yatharth Hospital acquires new hospital in Gurugram",
+      "headline": "Yatharth Hospital to acquire new hospital in Gurugram",
       "date": "13-05-2026 16:00"
     },
     {
@@ -19,29 +39,13 @@
     {
       "headline": "GE Shipping delivers 2007 built medium range tanker ‘Jag Prakash’",
       "date": "13-05-2026 15:41"
-    },
-    {
-      "headline": "Cipla’s consolidated net profit falls 55% in Q4",
-      "date": "13-05-2026 15:30"
-    },
-    {
-      "headline": "HPCL reports 78% jump in Q4 consolidated net profit",
-      "date": "13-05-2026 15:18"
-    },
-    {
-      "headline": "L&T’s PT&D business gets orders to set up extra-high voltage substations in Middle East",
-      "date": "13-05-2026 15:09"
-    },
-    {
-      "headline": "Desco Infratech emerges as L1 Bidder for ONGC project",
-      "date": "13-05-2026 14:59"
-    },
-    {
-      "headline": "Ceigall India bags 50 MW Standalone BESS project in Punjab",
-      "date": "13-05-2026 14:51"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends flat with positive bias on Wednesday",
+      "date": "13-05-2026 17:37"
+    },
     {
       "headline": "Nifty May 2026 futures close at premium of 68.40 points over spot closing",
       "date": "13-05-2026 16:22"
@@ -53,11 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 6,37,77,117.17 crore on May 12",
       "date": "13-05-2026 09:05"
-    },
-    {
-      "headline": "Bears tighten grip over market; Nifty cracks 24,000 level",
-      "date": "12-05-2026 17:47"
     }
   ],
-  "lastUpdated": "2026-05-13T11:09:47.717Z"
+  "lastUpdated": "2026-05-13T13:37:06.674Z"
 }
