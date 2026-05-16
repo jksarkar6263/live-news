@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Lemon Tree Hotels signs new hotel in Odisha",
+      "date": "16-05-2026 10:26"
+    },
+    {
+      "headline": "Fredun Pharmaceuticals launches cellular longevity dedicated platform ‘Daulcel’",
+      "date": "16-05-2026 10:04"
+    },
+    {
       "headline": "CONCOR inks MoU with PSA Mumbai",
       "date": "15-05-2026 18:21"
     },
@@ -31,17 +39,13 @@
     {
       "headline": "Marsons receives approval to supply transformers upto 132kV in Powergrid projects",
       "date": "15-05-2026 16:15"
-    },
-    {
-      "headline": "TV Today Network gets nod to make investment of Rs 50 lakh in MTNPL",
-      "date": "15-05-2026 16:00"
-    },
-    {
-      "headline": "Brigade Group’s co-working arm forays into Mysuru with launch of ‘Brigade Vantage’",
-      "date": "15-05-2026 15:52"
     }
   ],
   "derivative": [
+    {
+      "headline": "F&O total turnover stood at Rs 1,62,63,988.94 crore on May 15",
+      "date": "16-05-2026 10:01"
+    },
     {
       "headline": "Nifty ends in red as rupee falls below 96 against dollar for first time",
       "date": "15-05-2026 17:40"
@@ -53,11 +57,7 @@
     {
       "headline": "FIIs were net sellers of Rs 4744.42 crore in index futures and options segments on May 14",
       "date": "15-05-2026 09:08"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 90,88,038.28 crore on May 14",
-      "date": "15-05-2026 09:05"
     }
   ],
-  "lastUpdated": "2026-05-16T01:19:21.083Z"
+  "lastUpdated": "2026-05-16T04:56:52.269Z"
 }
