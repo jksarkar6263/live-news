@@ -1,6 +1,18 @@
 {
   "general": [
     {
+      "headline": "NIIT launches six new programs under GenAI & Artificial Intelligence portfolio",
+      "date": "21-05-2026 18:26"
+    },
+    {
+      "headline": "Indian Hotels Company signs Tree of Life resort in Kerala",
+      "date": "21-05-2026 17:59"
+    },
+    {
+      "headline": "ITC reports 73% fall in Q4 consolidated net profit",
+      "date": "21-05-2026 17:27"
+    },
+    {
       "headline": "Smartworks Coworking Spaces to expand Gurugram capacity by 4,02,200 square feet",
       "date": "21-05-2026 16:59"
     },
@@ -27,21 +39,13 @@
     {
       "headline": "Dhabriya Polywood bags work orders worth Rs 10.90 crore",
       "date": "21-05-2026 15:28"
-    },
-    {
-      "headline": "JSW Cement gets nod to set up additional 2.5 MTPA cement grinding capacity at Nagaur",
-      "date": "21-05-2026 15:10"
-    },
-    {
-      "headline": "Bosch joins forces with TSF Group to drive growth in air systems for commercial vehicles",
-      "date": "21-05-2026 14:59"
-    },
-    {
-      "headline": "Wheels India enters into joint venture with Bosch",
-      "date": "21-05-2026 14:40"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends with marginal losses on Thursday",
+      "date": "21-05-2026 17:38"
+    },
     {
       "headline": "Nifty May 2026 futures close at discount of 19.70 points over spot closing",
       "date": "21-05-2026 16:38"
@@ -53,11 +57,7 @@
     {
       "headline": "FIIs were net sellers of Rs 11100.33 crore in index futures and options segments on May 20",
       "date": "21-05-2026 08:56"
-    },
-    {
-      "headline": "Nifty erases early losses to end higher despite geopolitical concerns",
-      "date": "20-05-2026 17:08"
     }
   ],
-  "lastUpdated": "2026-05-21T11:48:46.736Z"
+  "lastUpdated": "2026-05-21T15:40:43.531Z"
 }
