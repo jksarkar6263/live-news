@@ -1,6 +1,10 @@
 {
   "general": [
     {
+      "headline": "IITL Projects planning to enter into new line of business",
+      "date": "23-05-2026 10:14"
+    },
+    {
       "headline": "Jayant Infratech bags LoA worth Rs 12.01 crore",
       "date": "22-05-2026 18:24"
     },
@@ -35,13 +39,17 @@
     {
       "headline": "Goodluck India secures export order worth $13.6 million from EPC player in Nepal",
       "date": "22-05-2026 15:59"
-    },
-    {
-      "headline": "Rail Vikas Nigam bags LoA worth Rs 758.07 crore",
-      "date": "22-05-2026 15:45"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net buyers of Rs 13044.27 crore in index futures and options segments on May 22",
+      "date": "23-05-2026 10:04"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 1,45,33,304.22 crore on May 22",
+      "date": "23-05-2026 10:00"
+    },
     {
       "headline": "Nifty ends higher amid ease in geopolitical tensions",
       "date": "22-05-2026 17:36"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty May 2026 futures close at premium of 57.00 points over spot closing",
       "date": "22-05-2026 16:41"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 663.01 crore in index futures and options segments on May 21",
-      "date": "22-05-2026 09:15"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 95,28,659.26 crore on May 21",
-      "date": "22-05-2026 09:09"
     }
   ],
-  "lastUpdated": "2026-05-23T01:23:53.149Z"
+  "lastUpdated": "2026-05-23T05:06:51.505Z"
 }
