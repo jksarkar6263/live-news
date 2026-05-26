@@ -68,7 +68,7 @@ async function run() {
   }
 
   const output = {
-    general: generalItems.slice(0,10),
+    general: generalItems.slice(0,16),
     derivative: derivativeItems.slice(0,4),
     lastUpdated: new Date().toISOString()
   };
