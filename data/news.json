@@ -1,6 +1,18 @@
 {
   "general": [
     {
+      "headline": "TMPV launches next-gen Tiago, Tiago.ev",
+      "date": "29-05-2026 09:28"
+    },
+    {
+      "headline": "Sadhana Nitro Chem inks long-term supply pact with Japanese MNC",
+      "date": "29-05-2026 09:15"
+    },
+    {
+      "headline": "TCS partners with Mistral",
+      "date": "29-05-2026 09:01"
+    },
+    {
       "headline": "Alkem Laboratories reports 23% fall in Q4 consolidated net profit",
       "date": "28-05-2026 18:06"
     },
@@ -27,18 +39,6 @@
     {
       "headline": "Cummins India reports 23% rise in Q4 consolidated net profit",
       "date": "28-05-2026 15:59"
-    },
-    {
-      "headline": "NTPC Green’s arm starts operation of 105 MW part capacity at Khavda-II Solar PV Project",
-      "date": "28-05-2026 15:38"
-    },
-    {
-      "headline": "Bajaj Housing Finance raises Rs 2000.67 crore via NCDs",
-      "date": "28-05-2026 15:17"
-    },
-    {
-      "headline": "Digilogic Systems incorporates subsidiary company",
-      "date": "28-05-2026 15:00"
     }
   ],
   "derivative": [
@@ -59,5 +59,5 @@
       "date": "27-05-2026 16:25"
     }
   ],
-  "lastUpdated": "2026-05-28T23:38:49.086Z"
+  "lastUpdated": "2026-05-29T04:10:50.170Z"
 }
