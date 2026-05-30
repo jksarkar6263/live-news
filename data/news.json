@@ -1,47 +1,55 @@
 {
   "general": [
     {
+      "headline": "BEML reports 37% decline in Q4 consolidated net profit",
+      "date": "30-05-2026 13:06"
+    },
+    {
+      "headline": "Power Grid Corporation acquires Tumkur II RE Transmission",
+      "date": "30-05-2026 12:40"
+    },
+    {
+      "headline": "PNC Infratech emerges as L1 bidder for Rs 302.44 crore airport project in Uttarakhand",
+      "date": "30-05-2026 12:22"
+    },
+    {
+      "headline": "Dalmia Bharat completes acquisition of 5.2 MnTPA cement, 3.3 MnTPA clinker capacities",
+      "date": "30-05-2026 11:58"
+    },
+    {
+      "headline": "NHPC raises Rs 2,000 crore through Bonds",
+      "date": "30-05-2026 11:36"
+    },
+    {
+      "headline": "Stanley Lifestyles bags orders worth Rs 48.78 lakh from BSE",
+      "date": "30-05-2026 11:15"
+    },
+    {
+      "headline": "Lupin gets USFDA nod for Sodium Sulfate, Magnesium Sulfate, and Potassium Chloride tablets",
+      "date": "30-05-2026 10:58"
+    },
+    {
+      "headline": "Hardwyn India bags order worth around Rs 4.36 crore",
+      "date": "30-05-2026 10:37"
+    },
+    {
+      "headline": "Concord Enviro Systems’ arm secures Rs 126 crore order to install ZLD systems",
+      "date": "30-05-2026 10:10"
+    },
+    {
       "headline": "Asian Paints reports 69% jump in Q4 consolidated net profit",
       "date": "29-05-2026 18:25"
-    },
-    {
-      "headline": "Nutraplus India plans to set-up Commercial Bio Gas plant",
-      "date": "29-05-2026 17:57"
-    },
-    {
-      "headline": "IndiGo reports consolidated net loss of Rs 2,536 crore in Q4",
-      "date": "29-05-2026 17:25"
-    },
-    {
-      "headline": "Talbros Engineering gets nod to make investment in Talbros Nextgen",
-      "date": "29-05-2026 17:00"
-    },
-    {
-      "headline": "Bandaram Pharma Packtech’s arm bags order worth Rs 3.86 crore",
-      "date": "29-05-2026 16:45"
-    },
-    {
-      "headline": "Karur Vysya Bank launches premium credit card portfolio on Visa platform",
-      "date": "29-05-2026 16:30"
-    },
-    {
-      "headline": "AvenuesAI gets nod to acquire balance 9.90% stake in Nueromind Technologies",
-      "date": "29-05-2026 16:14"
-    },
-    {
-      "headline": "Sharika Enterprises bags order worth Rs 24.90 crore",
-      "date": "29-05-2026 16:00"
-    },
-    {
-      "headline": "HT Media gets nod to invest Rs 5 crore in subsidiary",
-      "date": "29-05-2026 15:45"
-    },
-    {
-      "headline": "Gujarat Alkalies gets nod to put up 5000 TPA high purity grade hydrogen peroxide plant at Dahej",
-      "date": "29-05-2026 15:28"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net sellers of Rs 11370.60 crore in index futures and options segments on May 29",
+      "date": "30-05-2026 10:12"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 1,67,22,974.79 crore on May 29",
+      "date": "30-05-2026 10:08"
+    },
     {
       "headline": "Last hour selloff drags Nifty significantly lower on Friday",
       "date": "29-05-2026 16:57"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty June 2026 futures close at premium of 192.25 points over spot closing",
       "date": "29-05-2026 16:29"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 1922.44 crore in index futures and options segments on May 27",
-      "date": "28-05-2026 09:41"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 69,21,964.12 crore on May 27",
-      "date": "28-05-2026 09:36"
     }
   ],
-  "lastUpdated": "2026-05-30T04:35:18.225Z"
+  "lastUpdated": "2026-05-30T07:43:28.588Z"
 }
