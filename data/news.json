@@ -1,47 +1,55 @@
 {
   "general": [
     {
-      "headline": "Maruti Suzuki India reports 35% rise in total sales in May",
-      "date": "01-06-2026 12:30"
+      "headline": "Black Box enters into strategic alliance with AIONOS",
+      "date": "01-06-2026 18:24"
     },
     {
-      "headline": "Coal India reports 11.6% fall in coal production during May",
-      "date": "01-06-2026 12:21"
+      "headline": "NMDC reports 20% rise in iron ore production in May 2026",
+      "date": "01-06-2026 18:02"
     },
     {
-      "headline": "Suprajit Engineering’s GCM division bags $12 million annual contracts in May 2026",
-      "date": "01-06-2026 12:12"
+      "headline": "Trishakti Industries plans to enter into EV Machinery segment during Q2FY27",
+      "date": "01-06-2026 17:42"
     },
     {
-      "headline": "Siyaram Recycling Industries bags order worth Rs 95.63 lakh",
-      "date": "01-06-2026 11:59"
+      "headline": "United Drilling Tools secures order worth Rs 16.62 lakh",
+      "date": "01-06-2026 17:23"
     },
     {
-      "headline": "Bajaj Auto reports 20% rise in May sales",
-      "date": "01-06-2026 11:52"
+      "headline": "Indian Energy Exchange incorporates wholly owned subsidiary",
+      "date": "01-06-2026 16:59"
     },
     {
-      "headline": "Tata Technologies secures SAP PartnerEdge Sell authorization across India, United States",
-      "date": "01-06-2026 11:42"
+      "headline": "Eicher Motors’ motorcycle division reports 15% growth in May sales",
+      "date": "01-06-2026 16:46"
     },
     {
-      "headline": "Puravankara inks joint development pact for 11.23-acre land parcel in Bengaluru",
-      "date": "01-06-2026 11:30"
+      "headline": "M&M’s Farm Equipment Business reports 22% rise in May tractor sales",
+      "date": "01-06-2026 16:27"
     },
     {
-      "headline": "Marksans Pharma inks definitive pact to acquire 100% stake in QliniQ B.V.",
-      "date": "01-06-2026 11:18"
+      "headline": "Tata Motors Passenger Vehicles reports 42% jump in total sales in May",
+      "date": "01-06-2026 16:13"
     },
     {
-      "headline": "Kalpataru Projects International secures new orders worth Rs 2,002 crore",
-      "date": "01-06-2026 11:10"
+      "headline": "Ashok Leyland reports 4% fall in May sales",
+      "date": "01-06-2026 16:00"
     },
     {
-      "headline": "Hyundai Motor reports 9% growth in domestic sales during May 2026",
-      "date": "01-06-2026 11:00"
+      "headline": "Tata Motors registers 17% rise in total sales in May",
+      "date": "01-06-2026 15:46"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends lower for fourth straight session on Monday",
+      "date": "01-06-2026 16:57"
+    },
+    {
+      "headline": "Nifty June 2026 futures close at premium of 77.30 points over spot closing",
+      "date": "01-06-2026 16:14"
+    },
     {
       "headline": "FIIs were net sellers of Rs 11370.60 crore in index futures and options segments on May 29",
       "date": "30-05-2026 10:12"
@@ -49,15 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 1,67,22,974.79 crore on May 29",
       "date": "30-05-2026 10:08"
-    },
-    {
-      "headline": "Last hour selloff drags Nifty significantly lower on Friday",
-      "date": "29-05-2026 16:57"
-    },
-    {
-      "headline": "Nifty June 2026 futures close at premium of 192.25 points over spot closing",
-      "date": "29-05-2026 16:29"
     }
   ],
-  "lastUpdated": "2026-06-01T07:06:17.469Z"
+  "lastUpdated": "2026-06-01T13:13:13.095Z"
 }
