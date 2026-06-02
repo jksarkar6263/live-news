@@ -1,6 +1,30 @@
 {
   "general": [
     {
+      "headline": "ITCONS E-Solutions bags contract worth Rs 1.23 crore",
+      "date": "02-06-2026 09:59"
+    },
+    {
+      "headline": "Alfa Transformers bags order worth Rs 63 crore",
+      "date": "02-06-2026 09:50"
+    },
+    {
+      "headline": "Transrail Lighting bags new orders worth Rs 575 crore",
+      "date": "02-06-2026 09:41"
+    },
+    {
+      "headline": "Dee Development Engineers secures contracts worth Rs 206.55 crore",
+      "date": "02-06-2026 09:28"
+    },
+    {
+      "headline": "ACME Solar Holdings commissions additional capacity of BESS project in Rajasthan",
+      "date": "02-06-2026 09:17"
+    },
+    {
+      "headline": "Monarch Surveyors bags LoA worth Rs 2.02 crore",
+      "date": "02-06-2026 09:09"
+    },
+    {
       "headline": "Black Box enters into strategic alliance with AIONOS",
       "date": "01-06-2026 18:24"
     },
@@ -15,33 +39,17 @@
     {
       "headline": "United Drilling Tools secures order worth Rs 16.62 lakh",
       "date": "01-06-2026 17:23"
-    },
-    {
-      "headline": "Indian Energy Exchange incorporates wholly owned subsidiary",
-      "date": "01-06-2026 16:59"
-    },
-    {
-      "headline": "Eicher Motors’ motorcycle division reports 15% growth in May sales",
-      "date": "01-06-2026 16:46"
-    },
-    {
-      "headline": "M&M’s Farm Equipment Business reports 22% rise in May tractor sales",
-      "date": "01-06-2026 16:27"
-    },
-    {
-      "headline": "Tata Motors Passenger Vehicles reports 42% jump in total sales in May",
-      "date": "01-06-2026 16:13"
-    },
-    {
-      "headline": "Ashok Leyland reports 4% fall in May sales",
-      "date": "01-06-2026 16:00"
-    },
-    {
-      "headline": "Tata Motors registers 17% rise in total sales in May",
-      "date": "01-06-2026 15:46"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net buyers of Rs 4400.88 crore in index futures and options segments on June 01",
+      "date": "02-06-2026 09:13"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 2,48,02,327.35 crore on June 01",
+      "date": "02-06-2026 09:07"
+    },
     {
       "headline": "Nifty ends lower for fourth straight session on Monday",
       "date": "01-06-2026 16:57"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty June 2026 futures close at premium of 77.30 points over spot closing",
       "date": "01-06-2026 16:14"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 11370.60 crore in index futures and options segments on May 29",
-      "date": "30-05-2026 10:12"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 1,67,22,974.79 crore on May 29",
-      "date": "30-05-2026 10:08"
     }
   ],
-  "lastUpdated": "2026-06-01T23:52:39.235Z"
+  "lastUpdated": "2026-06-02T04:40:06.428Z"
 }
