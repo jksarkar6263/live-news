@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "LTM launches Managed Secure Service Edge solution with Cisco",
+      "date": "03-06-2026 18:25"
+    },
+    {
+      "headline": "Shree Rama Multi-Tech commences commercial production of tubes at Gujarat Plant",
+      "date": "03-06-2026 17:56"
+    },
+    {
       "headline": "NBCC secures work orders worth Rs 83.24 crore",
       "date": "03-06-2026 17:26"
     },
@@ -31,14 +39,6 @@
     {
       "headline": "Cryogenic OGS’ arm secures order worth Rs 12.58 crore",
       "date": "03-06-2026 15:30"
-    },
-    {
-      "headline": "Diamond Power commissions 8th MV/EHV Power Cable Production Line at Vadodara facility",
-      "date": "03-06-2026 15:18"
-    },
-    {
-      "headline": "Marsons secures LoI worth Rs 31.26 crore",
-      "date": "03-06-2026 15:10"
     }
   ],
   "derivative": [
@@ -59,5 +59,5 @@
       "date": "03-06-2026 09:07"
     }
   ],
-  "lastUpdated": "2026-06-03T12:20:46.583Z"
+  "lastUpdated": "2026-06-03T17:28:22.269Z"
 }
