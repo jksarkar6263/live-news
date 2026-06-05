@@ -1,6 +1,18 @@
 {
   "general": [
     {
+      "headline": "Glenmark Pharmaceuticals’ arm launches Lacosamide Injection",
+      "date": "05-06-2026 09:28"
+    },
+    {
+      "headline": "DMR Engineering secures Rs 2.58 crore work order",
+      "date": "05-06-2026 09:19"
+    },
+    {
+      "headline": "Lupin gets UDFDA approval for Ranluspec (ranibizumab) injection",
+      "date": "05-06-2026 09:07"
+    },
+    {
       "headline": "Bharat Gears invests Rs 1.27 crore in equity shares of Hexa Energy HR5",
       "date": "04-06-2026 18:25"
     },
@@ -27,21 +39,17 @@
     {
       "headline": "Indian Hotels Company partners with oneworld",
       "date": "04-06-2026 16:30"
-    },
-    {
-      "headline": "Innovision bags toll collection & facility maintenance contract worth Rs 26 crore",
-      "date": "04-06-2026 16:13"
-    },
-    {
-      "headline": "Hindalco launches Eternia experience centre in New Delhi",
-      "date": "04-06-2026 16:00"
-    },
-    {
-      "headline": "Shree Refrigerations secures purchase orders worth Rs 2.54 crore",
-      "date": "04-06-2026 15:45"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net sellers of Rs 7640.44 crore in index futures and options segments on June 04",
+      "date": "05-06-2026 09:09"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 85,44,028.71 crore on June 04",
+      "date": "05-06-2026 09:05"
+    },
     {
       "headline": "Nifty ends flat with positive bias on Thursday",
       "date": "04-06-2026 16:59"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty June 2026 futures close at premium of 118.45 points over spot closing",
       "date": "04-06-2026 16:25"
-    },
-    {
-      "headline": "FIIs were net buyers of Rs 6992.68 crore in index futures and options segments on June 03",
-      "date": "04-06-2026 09:09"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 1,06,53,561.93 crore on June 03",
-      "date": "04-06-2026 09:04"
     }
   ],
-  "lastUpdated": "2026-06-04T23:46:18.040Z"
+  "lastUpdated": "2026-06-05T04:17:20.518Z"
 }
