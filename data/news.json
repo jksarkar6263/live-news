@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Oil India reports presence of natural gas in Andaman shallow offshore block",
+      "date": "05-06-2026 18:30"
+    },
+    {
+      "headline": "Career Point Edutech secures order worth Rs 1.5 crore from VANARTI",
+      "date": "05-06-2026 18:05"
+    },
+    {
       "headline": "Heritage Foods launches new products",
       "date": "05-06-2026 17:31"
     },
@@ -31,17 +39,13 @@
     {
       "headline": "PVV Infra enters into strategic collaboration with Reliance BP Mobility",
       "date": "05-06-2026 15:14"
-    },
-    {
-      "headline": "Bluspring Enterprises’ arm secures contract worth Rs 2,049 crore",
-      "date": "05-06-2026 14:58"
-    },
-    {
-      "headline": "Goldman Sachs Bank USA buys stake in Groww through block deal",
-      "date": "05-06-2026 14:47"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends lower on Friday",
+      "date": "05-06-2026 17:11"
+    },
     {
       "headline": "Nifty June 2026 futures close at premium of 73.30 points over spot closing",
       "date": "05-06-2026 16:10"
@@ -53,11 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 85,44,028.71 crore on June 04",
       "date": "05-06-2026 09:05"
-    },
-    {
-      "headline": "Nifty ends flat with positive bias on Thursday",
-      "date": "04-06-2026 16:59"
     }
   ],
-  "lastUpdated": "2026-06-05T12:12:50.708Z"
+  "lastUpdated": "2026-06-05T15:35:23.176Z"
 }
