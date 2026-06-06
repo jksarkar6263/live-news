@@ -1,6 +1,22 @@
 {
   "general": [
     {
+      "headline": "Indian Sucrose reports 28% fall in Q4 net profit",
+      "date": "06-06-2026 14:56"
+    },
+    {
+      "headline": "Patel Retail opens new Patel’s R Mart store in Bhiwandi",
+      "date": "06-06-2026 14:34"
+    },
+    {
+      "headline": "Railtel Corporation of India bags order worth Rs 41.32 crore",
+      "date": "06-06-2026 14:04"
+    },
+    {
+      "headline": "Cupid Breweries executes agreement with United Spirits",
+      "date": "06-06-2026 13:00"
+    },
+    {
       "headline": "JK Cement executes mining lease for Mahan Coal Mine in Madhya Pradesh",
       "date": "06-06-2026 12:35"
     },
@@ -23,22 +39,6 @@
     {
       "headline": "Goodyear India launches 'Goodyear Ultra Grip'",
       "date": "06-06-2026 10:35"
-    },
-    {
-      "headline": "SIS acquires 4.20% stake in Updater Services",
-      "date": "06-06-2026 10:02"
-    },
-    {
-      "headline": "Oil India reports presence of natural gas in Andaman shallow offshore block",
-      "date": "05-06-2026 18:30"
-    },
-    {
-      "headline": "Career Point Edutech secures order worth Rs 1.5 crore from VANARTI",
-      "date": "05-06-2026 18:05"
-    },
-    {
-      "headline": "Heritage Foods launches new products",
-      "date": "05-06-2026 17:31"
     }
   ],
   "derivative": [
@@ -59,5 +59,5 @@
       "date": "05-06-2026 16:10"
     }
   ],
-  "lastUpdated": "2026-06-06T07:22:49.487Z"
+  "lastUpdated": "2026-06-06T09:34:42.595Z"
 }
