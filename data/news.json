@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Veerhealth Care secures order worth Rs 3.6 crore",
+      "date": "09-06-2026 18:25"
+    },
+    {
+      "headline": "Unified Data wins order worth Rs 4.24 crore from largest private sector bank",
+      "date": "09-06-2026 17:49"
+    },
+    {
       "headline": "Minda Corporation raises Rs 100 crore through Commercial Paper",
       "date": "09-06-2026 17:15"
     },
@@ -31,17 +39,13 @@
     {
       "headline": "Godrej Properties sells homes worth over Rs 2,000 crore in Godrej Vanantara project in Bengaluru",
       "date": "09-06-2026 15:29"
-    },
-    {
-      "headline": "Siyaram Recycling Industries bags order worth Rs 1.13 crore",
-      "date": "09-06-2026 15:14"
-    },
-    {
-      "headline": "TCS launches GVIC business unit to help enterprises build AI-Native GCCs",
-      "date": "09-06-2026 14:58"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends higher on Tuesday",
+      "date": "09-06-2026 17:03"
+    },
     {
       "headline": "Nifty June 2026 futures close at premium of 104.90 points over spot closing",
       "date": "09-06-2026 16:31"
@@ -53,11 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 2,14,87,221.56 crore on June 08",
       "date": "09-06-2026 09:06"
-    },
-    {
-      "headline": "Nifty ends deeply in red as crude oil prices rise",
-      "date": "08-06-2026 17:15"
     }
   ],
-  "lastUpdated": "2026-06-09T12:08:39.575Z"
+  "lastUpdated": "2026-06-09T15:39:57.991Z"
 }
