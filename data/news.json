@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Texmaco Rail & Engineering bags LoA worth Rs 5.49 crore",
+      "date": "27-06-2026 10:41"
+    },
+    {
+      "headline": "Sunteck Realty incorporates wholly owned subsidiary",
+      "date": "27-06-2026 10:12"
+    },
+    {
       "headline": "Indian Hotels Company opens Ginger Gadchiroli in Maharashtra",
       "date": "25-06-2026 18:22"
     },
@@ -31,17 +39,17 @@
     {
       "headline": "Jupiter Wagons secures orders worth Rs 264.32 crore",
       "date": "25-06-2026 15:59"
-    },
-    {
-      "headline": "Mirae Asset Late Stage Opportunities Fund divests 0.97% stake in Shadowfax Technologies",
-      "date": "25-06-2026 15:43"
-    },
-    {
-      "headline": "Jindal Saw reinstated with API licenses",
-      "date": "25-06-2026 15:28"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net buyers of Rs 5097.17 crore in index futures and options segments on June 25",
+      "date": "27-06-2026 10:02"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 1,11,76,661.60 crore on June 25",
+      "date": "27-06-2026 10:01"
+    },
     {
       "headline": "Nifty ends marginally higher on Thursday",
       "date": "25-06-2026 17:23"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty June 2026 futures close at premium of 47.30 points over spot closing",
       "date": "25-06-2026 16:27"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 14523.27 crore in index futures and options segments on June 24",
-      "date": "25-06-2026 09:23"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 1,07,05,298.13 crore on June 24",
-      "date": "25-06-2026 09:17"
     }
   ],
-  "lastUpdated": "2026-06-27T01:29:10.487Z"
+  "lastUpdated": "2026-06-27T05:33:17.970Z"
 }
