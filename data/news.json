@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Tata Motors registers 35% jump in total sales in June 2026",
+      "date": "01-07-2026 18:17"
+    },
+    {
+      "headline": "Eicher Motors’ motorcycle division reports 27% growth in June sales",
+      "date": "01-07-2026 17:55"
+    },
+    {
       "headline": "Taj GVK Hotels receives Occupancy Certificate for Taj Yelahanka in Bengaluru",
       "date": "01-07-2026 17:36"
     },
@@ -31,14 +39,6 @@
     {
       "headline": "NACDAC Infrastructure gets LoA worth Rs 6.22 crore",
       "date": "01-07-2026 15:52"
-    },
-    {
-      "headline": "Ashok Leyland launches India’s first air suspension range of trucks",
-      "date": "01-07-2026 15:41"
-    },
-    {
-      "headline": "Bajaj Housing Finance raises Rs 2,500.84 crore via NCDs",
-      "date": "01-07-2026 15:30"
     }
   ],
   "derivative": [
@@ -59,5 +59,5 @@
       "date": "01-07-2026 09:30"
     }
   ],
-  "lastUpdated": "2026-07-01T12:19:50.490Z"
+  "lastUpdated": "2026-07-01T15:20:24.680Z"
 }
