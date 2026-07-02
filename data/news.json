@@ -1,6 +1,30 @@
 {
   "general": [
     {
+      "headline": "Panorama Studios inks pact with Lumapix Creative Studios",
+      "date": "02-07-2026 18:25"
+    },
+    {
+      "headline": "SBC Exports extends contract with MPMMCC",
+      "date": "02-07-2026 18:02"
+    },
+    {
+      "headline": "Bikaji Foods International completes acquisition of 74% stake in JBDSPL",
+      "date": "02-07-2026 17:38"
+    },
+    {
+      "headline": "Artefact Projects bags LoA worth Rs 3.16 crore from NHAI",
+      "date": "02-07-2026 17:17"
+    },
+    {
+      "headline": "Airfloa Rail Technology bags order worth Rs 1.21 crore",
+      "date": "02-07-2026 16:59"
+    },
+    {
+      "headline": "Siyaram Recycling Industries bags orders worth Rs 4.20 crore",
+      "date": "02-07-2026 16:42"
+    },
+    {
       "headline": "USFDA completes cGMP inspection at OneSource Specialty Pharma’s SPD facility",
       "date": "02-07-2026 16:30"
     },
@@ -15,33 +39,17 @@
     {
       "headline": "IndiGo launches ‘IndiGo Lite’ fare for economy class customers",
       "date": "02-07-2026 15:51"
-    },
-    {
-      "headline": "Crompton Greaves bags order worth Rs 29.77 crore from MSEDCL",
-      "date": "02-07-2026 15:42"
-    },
-    {
-      "headline": "HDB Financial Services raises Rs 1000 crore through NCDs",
-      "date": "02-07-2026 15:29"
-    },
-    {
-      "headline": "RattanIndia Enterprises’ Revolt Motors launches electric bike ‘RVX’",
-      "date": "02-07-2026 15:20"
-    },
-    {
-      "headline": "Indian Bank reports 13% rise in total deposits during Q1FY27",
-      "date": "02-07-2026 15:12"
-    },
-    {
-      "headline": "Force Motors reports 24% rise in total sales during June",
-      "date": "02-07-2026 14:59"
-    },
-    {
-      "headline": "HEC Infra Projects bags order worth Rs 48 crore",
-      "date": "02-07-2026 14:44"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty extends gains for second straight session on Thursday",
+      "date": "02-07-2026 17:37"
+    },
+    {
+      "headline": "Nifty July 2026 futures close at premium of 94.40 points over spot closing",
+      "date": "02-07-2026 16:36"
+    },
     {
       "headline": "FIIs were net sellers of Rs 7324.13 crore in index futures and options segments on July 01",
       "date": "02-07-2026 09:39"
@@ -49,15 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 77,47,826.12 crore on July 01",
       "date": "02-07-2026 09:33"
-    },
-    {
-      "headline": "Nifty snaps 2-day losing streak on Wednesday",
-      "date": "01-07-2026 17:23"
-    },
-    {
-      "headline": "Nifty July 2026 futures close at premium of 76.15 points over spot closing",
-      "date": "01-07-2026 16:25"
     }
   ],
-  "lastUpdated": "2026-07-02T11:09:28.992Z"
+  "lastUpdated": "2026-07-02T13:18:31.930Z"
 }
