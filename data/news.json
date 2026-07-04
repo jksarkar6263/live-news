@@ -1,6 +1,26 @@
 {
   "general": [
     {
+      "headline": "Sugs Lloyd bags LoA worth Rs 3.37 crore",
+      "date": "04-07-2026 17:00"
+    },
+    {
+      "headline": "Shakti Pumps bags Letter of Empanelment worth Rs 353.89 crore from MSEDCL",
+      "date": "04-07-2026 16:30"
+    },
+    {
+      "headline": "IndusInd Bank reports 2% decline in net advances in Q1FY27",
+      "date": "04-07-2026 16:04"
+    },
+    {
+      "headline": "Aptech wins order worth Rs 4.79 crore to conduct skill development training program",
+      "date": "04-07-2026 15:33"
+    },
+    {
+      "headline": "Baazar Style Retail opens new store in Uttar Pradesh",
+      "date": "04-07-2026 15:07"
+    },
+    {
       "headline": "CFF Fluid Control secures contract worth Rs 2.45 crore",
       "date": "04-07-2026 14:36"
     },
@@ -19,26 +39,6 @@
     {
       "headline": "Protean e-Gov Technologies signs MoU with NECTAR",
       "date": "04-07-2026 12:10"
-    },
-    {
-      "headline": "NBCC (India) bags work orders worth Rs 132.28 crore",
-      "date": "04-07-2026 11:56"
-    },
-    {
-      "headline": "Coal India signs JV agreement with U.P. Rajya Vidyut Utpadan Nigam",
-      "date": "04-07-2026 11:44"
-    },
-    {
-      "headline": "Globe Civil Projects receives LoA worth Rs 1.20 crore",
-      "date": "04-07-2026 11:25"
-    },
-    {
-      "headline": "TCC Concept’s arm enters B2B partnership with Shiprocket",
-      "date": "04-07-2026 11:08"
-    },
-    {
-      "headline": "Quality Power Electrical Equipments’ arm bags orders worth Rs 15.70 crore",
-      "date": "04-07-2026 10:50"
     }
   ],
   "derivative": [
@@ -59,5 +59,5 @@
       "date": "03-07-2026 16:24"
     }
   ],
-  "lastUpdated": "2026-07-04T09:37:45.119Z"
+  "lastUpdated": "2026-07-04T11:37:23.546Z"
 }
