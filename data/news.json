@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Clean Max Enviro commissions around 530 MW of RE capacity during Q1 FY27",
+      "date": "07-07-2026 09:17"
+    },
+    {
+      "headline": "Smartworks Coworking Spaces completes acquisition of Workstudio Spaces",
+      "date": "07-07-2026 09:04"
+    },
+    {
       "headline": "Magnum Ice Cream Company opens new RD&I Centre in Bengaluru",
       "date": "06-07-2026 18:15"
     },
@@ -31,17 +39,17 @@
     {
       "headline": "LTM launches BlueVerse RightLogic to address cyber risk",
       "date": "06-07-2026 15:56"
-    },
-    {
-      "headline": "Faalcon Concepts bags work order worth Rs 101.92 crore",
-      "date": "06-07-2026 15:42"
-    },
-    {
-      "headline": "Vedanta Power reports 38% growth in power sales in Q1FY27",
-      "date": "06-07-2026 15:22"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net buyers of Rs 5131.60 crore in index futures and options segments on July 6",
+      "date": "07-07-2026 08:51"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 2,05,93,542.98 crore on July 06",
+      "date": "07-07-2026 08:48"
+    },
     {
       "headline": "Nifty end higher for fourth straight session; settles above 24,400 mark",
       "date": "06-07-2026 18:04"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty July 2026 futures close at a premium of 49.55 points over spot closing",
       "date": "06-07-2026 17:02"
-    },
-    {
-      "headline": "FIIs were net buyers of Rs 5333.03 crore in index futures and options segments on July 03",
-      "date": "04-07-2026 10:45"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 1,47,94,100.93 crore on July 03",
-      "date": "04-07-2026 10:42"
     }
   ],
-  "lastUpdated": "2026-07-06T23:39:31.851Z"
+  "lastUpdated": "2026-07-07T03:55:48.535Z"
 }
