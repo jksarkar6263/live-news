@@ -1,6 +1,10 @@
 {
   "general": [
     {
+      "headline": "Ceinsys Tech bags order worth Rs 67.04 crore",
+      "date": "10-07-2026 09:11"
+    },
+    {
       "headline": "L&T’s arm signs MoU with Azuremoto Technologies",
       "date": "09-07-2026 18:23"
     },
@@ -35,10 +39,6 @@
     {
       "headline": "HDB Financial Services raises Rs 300 crore through NCDs",
       "date": "09-07-2026 16:13"
-    },
-    {
-      "headline": "Datamatics selected by North American logistics company to implement Salesforce Cloud",
-      "date": "09-07-2026 15:58"
     }
   ],
   "derivative": [
@@ -59,5 +59,5 @@
       "date": "09-07-2026 09:40"
     }
   ],
-  "lastUpdated": "2026-07-09T23:46:31.498Z"
+  "lastUpdated": "2026-07-10T03:50:51.738Z"
 }
