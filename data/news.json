@@ -1,6 +1,22 @@
 {
   "general": [
     {
+      "headline": "Avenue Supermarts opens new store in Uttar Pradesh",
+      "date": "11-07-2026 11:24"
+    },
+    {
+      "headline": "Ajmera Realty sells 36% stake in Ultra Tech Property Developers",
+      "date": "11-07-2026 10:59"
+    },
+    {
+      "headline": "PDS’ arm divests 26% stake in Nobleswear",
+      "date": "11-07-2026 10:35"
+    },
+    {
+      "headline": "Belding India launches Hybrid BESS at India Energy Storage Week 2026",
+      "date": "11-07-2026 10:09"
+    },
+    {
       "headline": "3i Infotech’s arm receives contract worth Rs 3 crore",
       "date": "10-07-2026 18:28"
     },
@@ -23,25 +39,17 @@
     {
       "headline": "Bank of Maharashtra reports 34.50% rise in Q1 consolidated net profit",
       "date": "10-07-2026 16:44"
-    },
-    {
-      "headline": "TVS Motor Company planning to raise up to Rs 1000 crore via NCDs",
-      "date": "10-07-2026 16:29"
-    },
-    {
-      "headline": "Indian Hotels Company opens Vivanta hotel in Gurugram",
-      "date": "10-07-2026 16:14"
-    },
-    {
-      "headline": "QGO Finance raises Rs 2 crore via NCDs",
-      "date": "10-07-2026 15:59"
-    },
-    {
-      "headline": "Shelter Pharma secures order for supply of veterinary feed supplement products",
-      "date": "10-07-2026 15:48"
     }
   ],
   "derivative": [
+    {
+      "headline": "F&O total turnover stood at Rs 1,44,47,607.59 crore on July 10",
+      "date": "11-07-2026 10:03"
+    },
+    {
+      "headline": "FIIs were net buyers of Rs 60.79 crore in index futures and options segments on July 10",
+      "date": "11-07-2026 10:01"
+    },
     {
       "headline": "Nifty ended higher for second straight session on Friday",
       "date": "10-07-2026 17:43"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty July 2026 futures close at premium of 43.00 points over spot closing",
       "date": "10-07-2026 16:23"
-    },
-    {
-      "headline": "FIIs were net buyers of Rs 630.93 crore in index futures and options segments on July 09",
-      "date": "10-07-2026 09:25"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 89,77,025.28 crore on July 09",
-      "date": "10-07-2026 09:19"
     }
   ],
-  "lastUpdated": "2026-07-11T03:52:59.151Z"
+  "lastUpdated": "2026-07-11T06:18:44.595Z"
 }
