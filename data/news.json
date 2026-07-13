@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Tech Mahindra enters into partnership with CloudSEK",
+      "date": "13-07-2026 18:25"
+    },
+    {
+      "headline": "IndusInd Bank integrates with EPFO",
+      "date": "13-07-2026 17:59"
+    },
+    {
       "headline": "PDS enters into SaaS contract with leading French-Headquartered Global supermarket",
       "date": "13-07-2026 17:28"
     },
@@ -31,17 +39,13 @@
     {
       "headline": "RPG Life Sciences partners with Archerchem",
       "date": "13-07-2026 15:27"
-    },
-    {
-      "headline": "Siemens secures order worth Rs 263 crore from RVNL",
-      "date": "13-07-2026 15:12"
-    },
-    {
-      "headline": "L&T Finance reports 29% growth in Q1 consolidated net profit",
-      "date": "13-07-2026 14:59"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends flat with positive bias on Monday",
+      "date": "13-07-2026 17:39"
+    },
     {
       "headline": "Nifty July 2026 futures close at premium of 38.00 points over spot closing",
       "date": "13-07-2026 16:31"
@@ -53,11 +57,7 @@
     {
       "headline": "FIIs were net buyers of Rs 60.79 crore in index futures and options segments on July 10",
       "date": "11-07-2026 10:01"
-    },
-    {
-      "headline": "Nifty ended higher for second straight session on Friday",
-      "date": "10-07-2026 17:43"
     }
   ],
-  "lastUpdated": "2026-07-13T12:11:12.724Z"
+  "lastUpdated": "2026-07-13T15:23:19.189Z"
 }
