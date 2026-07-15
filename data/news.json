@@ -1,6 +1,18 @@
 {
   "general": [
     {
+      "headline": "KEC International secures orders worth Rs 1,180 crore",
+      "date": "15-07-2026 09:27"
+    },
+    {
+      "headline": "Exato Technologies’ arm executes partnership agreement with AmplifAI Solutions",
+      "date": "15-07-2026 09:15"
+    },
+    {
+      "headline": "L&T Technology Services inks pact with Anthropic",
+      "date": "15-07-2026 09:03"
+    },
+    {
       "headline": "3i Infotech’s arm bags Rs 1.47 crore order for API development",
       "date": "14-07-2026 18:24"
     },
@@ -27,21 +39,17 @@
     {
       "headline": "Indobell Insulations secures export order worth $47,922",
       "date": "14-07-2026 16:29"
-    },
-    {
-      "headline": "DS Kulkarni Developers completes acquisition of 100% stake in Moonbrick Realty",
-      "date": "14-07-2026 16:13"
-    },
-    {
-      "headline": "String Metaverse, Hashgraph Group launch BillsOnChain on Hedera network",
-      "date": "14-07-2026 16:00"
-    },
-    {
-      "headline": "Panorama Studios executes licensing agreements for non-theatrical rights of two short films",
-      "date": "14-07-2026 15:44"
     }
   ],
   "derivative": [
+    {
+      "headline": "F&O total turnover stood at Rs 6,12,88,361.42 crore on July 14",
+      "date": "15-07-2026 08:50"
+    },
+    {
+      "headline": "FIIs were net sellers of Rs 49304.15 crore in index futures and options segments on July 14",
+      "date": "15-07-2026 08:48"
+    },
     {
       "headline": "Nifty ends lower with cut of over half percent on Tuesday",
       "date": "14-07-2026 17:10"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty July 2026 futures close at discount of 30.05 points over spot closing",
       "date": "14-07-2026 16:19"
-    },
-    {
-      "headline": "FIIs were net buyers of Rs 2513.43 crore in index futures and options segments on July 13",
-      "date": "14-07-2026 09:25"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 2,60,41,554.16 crore on July 13",
-      "date": "14-07-2026 09:20"
     }
   ],
-  "lastUpdated": "2026-07-15T00:53:11.034Z"
+  "lastUpdated": "2026-07-15T04:08:53.469Z"
 }
