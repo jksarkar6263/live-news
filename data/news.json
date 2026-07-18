@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Sterlite Technologies’ arm launches advanced FTTH solution 'CONCAT'",
+      "date": "18-07-2026 18:25"
+    },
+    {
+      "headline": "Innovision bags LoA worth Rs 44.60 crore from NHAI",
+      "date": "18-07-2026 17:55"
+    },
+    {
       "headline": "USFDA completes cGMP Inspection at Cipla’s arm’s New York facility",
       "date": "18-07-2026 17:34"
     },
@@ -31,14 +39,6 @@
     {
       "headline": "Power Grid Corporation declared as successful bidder to establish transmission system",
       "date": "18-07-2026 14:15"
-    },
-    {
-      "headline": "Axis Bank's consolidated net profit rises 22% in Q1FY27",
-      "date": "18-07-2026 13:00"
-    },
-    {
-      "headline": "HCL Technologies launches global technology center in GIFT City",
-      "date": "18-07-2026 12:32"
     }
   ],
   "derivative": [
@@ -59,5 +59,5 @@
       "date": "17-07-2026 16:58"
     }
   ],
-  "lastUpdated": "2026-07-18T12:29:31.512Z"
+  "lastUpdated": "2026-07-18T14:03:09.836Z"
 }
