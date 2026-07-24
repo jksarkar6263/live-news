@@ -1,6 +1,26 @@
 {
   "general": [
     {
+      "headline": "NTPC Green’s arm starts commercial operation of 64.76 MW at Khavda Solar PV Project",
+      "date": "24-07-2026 10:10"
+    },
+    {
+      "headline": "SpiceJet inducts three Airbus A320 aircraft",
+      "date": "24-07-2026 09:58"
+    },
+    {
+      "headline": "Cyient reports 32% fall in Q1 consolidated net profit",
+      "date": "24-07-2026 09:44"
+    },
+    {
+      "headline": "Akums Drugs’ arm gets nod to acquire Oriflame India’s manufacturing business",
+      "date": "24-07-2026 09:25"
+    },
+    {
+      "headline": "Coforge launches AI Operating System for Autonomous Enterprise",
+      "date": "24-07-2026 09:01"
+    },
+    {
       "headline": "Seamec enters into diving agreements with HAL",
       "date": "23-07-2026 18:25"
     },
@@ -19,29 +39,17 @@
     {
       "headline": "IndiGo reports Rs 237.60 crore consolidated net loss in Q1FY27",
       "date": "23-07-2026 16:58"
-    },
-    {
-      "headline": "Signatureglobal’s arm acquires saleable area in Gurugram project",
-      "date": "23-07-2026 16:44"
-    },
-    {
-      "headline": "Ameenji Rubber gets LoA worth Rs 19.96 crore",
-      "date": "23-07-2026 16:29"
-    },
-    {
-      "headline": "Indo-National invests Rs 49.93 lakh in MMSPL",
-      "date": "23-07-2026 16:13"
-    },
-    {
-      "headline": "Ashok Leyland signs MoU with Shriram Automall India",
-      "date": "23-07-2026 16:00"
-    },
-    {
-      "headline": "TVS Motor Company launches TVS Orbiter electric scooter in Nepal",
-      "date": "23-07-2026 15:45"
     }
   ],
   "derivative": [
+    {
+      "headline": "F&O total turnover stood at Rs 93,94,025.45 crore on July 23",
+      "date": "24-07-2026 09:34"
+    },
+    {
+      "headline": "FIIs were net sellers of Rs 12063.96 crore in index futures and options segments on July 23",
+      "date": "24-07-2026 09:31"
+    },
     {
       "headline": "Nifty ends lower for fourth straight session amid surge in crude oil prices",
       "date": "23-07-2026 18:14"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty July 2026 futures close at premium of 16.40 points over spot closing",
       "date": "23-07-2026 16:35"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 10525.73 crore in index futures and options segments on July 22",
-      "date": "23-07-2026 09:32"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 82,47,627.59 crore on July 22",
-      "date": "23-07-2026 09:26"
     }
   ],
-  "lastUpdated": "2026-07-24T01:01:14.677Z"
+  "lastUpdated": "2026-07-24T04:50:16.929Z"
 }
