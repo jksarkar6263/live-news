@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "PVR Inox launches new 3-screen multiplex in Jabalpur",
+      "date": "31-07-2026 09:17"
+    },
+    {
+      "headline": "Lemon Tree Hotels opens Keys Prima by Lemon Tree Hotels in Mussoorie",
+      "date": "31-07-2026 09:06"
+    },
+    {
       "headline": "Mahindra & Mahindra reports 34% rise in Q1 consolidated net profit",
       "date": "30-07-2026 18:25"
     },
@@ -31,14 +39,6 @@
     {
       "headline": "Oil India signs MoU with MCD to establish compressed bio-gas plants in Delhi",
       "date": "30-07-2026 16:14"
-    },
-    {
-      "headline": "Texmaco Rail bags order from South Western Railway",
-      "date": "30-07-2026 16:00"
-    },
-    {
-      "headline": "Massachusetts Institute of Technology sells 1.45% stake in KPIT Technologies",
-      "date": "30-07-2026 15:45"
     }
   ],
   "derivative": [
@@ -59,5 +59,5 @@
       "date": "30-07-2026 09:18"
     }
   ],
-  "lastUpdated": "2026-07-31T00:07:07.151Z"
+  "lastUpdated": "2026-07-31T04:01:55.168Z"
 }
