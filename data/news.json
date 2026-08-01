@@ -1,47 +1,55 @@
 {
   "general": [
     {
+      "headline": "GAIL (India) reports 97% jump in Q1 consolidated net profit",
+      "date": "01-08-2026 12:40"
+    },
+    {
+      "headline": "Bharat Electronics secures additional orders worth Rs 572 crore",
+      "date": "01-08-2026 12:20"
+    },
+    {
+      "headline": "NCC bags orders worth Rs 1052.71 crore in July 2026",
+      "date": "01-08-2026 12:00"
+    },
+    {
+      "headline": "Maruti Suzuki India’s Q1 consolidated net profit declines 9%",
+      "date": "01-08-2026 11:46"
+    },
+    {
+      "headline": "Escorts Kubota’s Agri Machinery Business reports 22% growth in July sales",
+      "date": "01-08-2026 11:30"
+    },
+    {
+      "headline": "SML Mahindra reports 12% growth in total vehicle sales in July",
+      "date": "01-08-2026 11:11"
+    },
+    {
+      "headline": "ITC reports 16% decline in Q1 consolidated net profit",
+      "date": "01-08-2026 10:52"
+    },
+    {
+      "headline": "Dr. Reddy's Laboratories gets USFDA’s approval for rituximab biosimilar",
+      "date": "01-08-2026 10:35"
+    },
+    {
       "headline": "Powerica executes power purchase agreement with Gujarat Urja Vikas Nigam",
       "date": "01-08-2026 10:13"
     },
     {
       "headline": "Hero MotoCorp's VIDA introduces VIDA EVOOTER VX2 Go FB",
       "date": "31-07-2026 18:27"
-    },
-    {
-      "headline": "Sun Pharma reports 27% rise in Q1 consolidated net profit",
-      "date": "31-07-2026 18:02"
-    },
-    {
-      "headline": "RailTel Corporation bags order worth Rs 33.79 crore",
-      "date": "31-07-2026 17:42"
-    },
-    {
-      "headline": "Krystal Integrated Services gets LoA worth Rs 33.05 crore",
-      "date": "31-07-2026 17:17"
-    },
-    {
-      "headline": "Kajaria Ceramics gets nod to expand manufacturing facility at Rajasthan",
-      "date": "31-07-2026 16:58"
-    },
-    {
-      "headline": "National Securities Depository reports 10% rise in Q1 consolidated net profit",
-      "date": "31-07-2026 16:44"
-    },
-    {
-      "headline": "Ravindra Energy executes loan agreement with Tata Capital",
-      "date": "31-07-2026 16:28"
-    },
-    {
-      "headline": "M&M’s step-down arm incorporates wholly owned subsidiary",
-      "date": "31-07-2026 16:13"
-    },
-    {
-      "headline": "Hirect secures order from US for IGBT Converters for Mining Industry",
-      "date": "31-07-2026 16:00"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net buyers of Rs 2599.38 crore in index futures and options segments on July 31",
+      "date": "01-08-2026 10:41"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 1,40,67,607.92 crore on July 31",
+      "date": "01-08-2026 10:37"
+    },
     {
       "headline": "Nifty ends higher for third straight session",
       "date": "31-07-2026 17:17"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty August 2026 futures close at premium of 46.40 points over spot closing",
       "date": "31-07-2026 16:23"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 7108.30 crore in index futures and options segments on July 30",
-      "date": "31-07-2026 09:35"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 82,42,180.06 crore on July 30",
-      "date": "31-07-2026 09:30"
     }
   ],
-  "lastUpdated": "2026-08-01T04:55:15.331Z"
+  "lastUpdated": "2026-08-01T07:30:23.564Z"
 }
