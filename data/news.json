@@ -1,6 +1,22 @@
 {
   "general": [
     {
+      "headline": "Nykaa acquires 51% stake in Aminu Wellness",
+      "date": "04-08-2026 18:17"
+    },
+    {
+      "headline": "Avenue Supermarts opens new store in Uttar Pradesh",
+      "date": "04-08-2026 17:55"
+    },
+    {
+      "headline": "Castrol India reports 43% jump in Q1 net profit",
+      "date": "04-08-2026 17:35"
+    },
+    {
+      "headline": "Vodafone Idea launches three new prepaid recharge plans",
+      "date": "04-08-2026 17:10"
+    },
+    {
       "headline": "RMC Switchgears secures LoAs from Paschim Gujarat VIJ Company",
       "date": "04-08-2026 16:53"
     },
@@ -23,25 +39,17 @@
     {
       "headline": "BASF India gets nod to acquire 14.18% stake in Clean Max Galapagos",
       "date": "04-08-2026 15:28"
-    },
-    {
-      "headline": "Novus Loyalty enters into agreement with Hero Housing Finance",
-      "date": "04-08-2026 15:19"
-    },
-    {
-      "headline": "Systematic Industries acquires GI Wire manufacturing facility in Chhattisgarh",
-      "date": "04-08-2026 15:10"
-    },
-    {
-      "headline": "Belrise Industries acquires Hyva India’s Tipper Body Business",
-      "date": "04-08-2026 14:58"
-    },
-    {
-      "headline": "FSSAI prohibits Dabur India to sell food products carrying misleading ‘100%’ claims",
-      "date": "04-08-2026 14:46"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends lower ahead of RBI's monetary policy decision",
+      "date": "04-08-2026 17:22"
+    },
+    {
+      "headline": "Nifty August 2026 futures close at a discount of 62.60 points over spot closing",
+      "date": "04-08-2026 17:19"
+    },
     {
       "headline": "FIIs were net buyers of Rs 9431.63 crore in index futures and options segments on August 03",
       "date": "04-08-2026 09:41"
@@ -49,15 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 1,95,48,962.81 crore on August 03",
       "date": "04-08-2026 09:36"
-    },
-    {
-      "headline": "Nifty ends sharply higher on Monday",
-      "date": "03-08-2026 17:24"
-    },
-    {
-      "headline": "Nifty August 2026 futures close at discount of 109.40 points over spot closing",
-      "date": "03-08-2026 16:25"
     }
   ],
-  "lastUpdated": "2026-08-04T11:40:06.926Z"
+  "lastUpdated": "2026-08-04T14:28:04.884Z"
 }
