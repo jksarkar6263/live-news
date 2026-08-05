@@ -1,6 +1,18 @@
 {
   "general": [
     {
+      "headline": "Deepak Nitrite’s arm gets nod to set up project for manufacture of Bisphenol A",
+      "date": "05-08-2026 09:30"
+    },
+    {
+      "headline": "TCC Concept’s arm enters into MoU to develop 60 MW data centre campus in Pune",
+      "date": "05-08-2026 09:20"
+    },
+    {
+      "headline": "Avantel bags order worth Rs 2.70 crore from Integrated Test Range",
+      "date": "05-08-2026 09:10"
+    },
+    {
       "headline": "Nykaa acquires 51% stake in Aminu Wellness",
       "date": "04-08-2026 18:17"
     },
@@ -27,21 +39,17 @@
     {
       "headline": "Zydus Lifesciences gets USFDA’s final approval for Indocyanine Green for Injection",
       "date": "04-08-2026 16:14"
-    },
-    {
-      "headline": "Alembic Pharmaceuticals reports 12% rise in Q1 consolidated net profit",
-      "date": "04-08-2026 16:00"
-    },
-    {
-      "headline": "RMC Switchgears gets LoAs worth Rs 2.44 crore",
-      "date": "04-08-2026 15:45"
-    },
-    {
-      "headline": "BASF India gets nod to acquire 14.18% stake in Clean Max Galapagos",
-      "date": "04-08-2026 15:28"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net buyers of Rs 17845.26 crore in index futures and options segments on August 04",
+      "date": "05-08-2026 09:25"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 5,14,64,056.71 crore on August 04",
+      "date": "05-08-2026 09:15"
+    },
     {
       "headline": "Nifty ends lower ahead of RBI's monetary policy decision",
       "date": "04-08-2026 17:22"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty August 2026 futures close at a discount of 62.60 points over spot closing",
       "date": "04-08-2026 17:19"
-    },
-    {
-      "headline": "FIIs were net buyers of Rs 9431.63 crore in index futures and options segments on August 03",
-      "date": "04-08-2026 09:41"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 1,95,48,962.81 crore on August 03",
-      "date": "04-08-2026 09:36"
     }
   ],
-  "lastUpdated": "2026-08-05T00:55:25.605Z"
+  "lastUpdated": "2026-08-05T04:14:56.719Z"
 }
