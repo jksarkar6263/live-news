@@ -1,6 +1,22 @@
 {
   "general": [
     {
+      "headline": "NBCC (India) secures orders worth Rs 801.20 crore",
+      "date": "06-08-2026 09:42"
+    },
+    {
+      "headline": "Medico Remedies secures order worth around Rs 13.38 crore",
+      "date": "06-08-2026 09:30"
+    },
+    {
+      "headline": "Niraj Cement Structurals’ JV bags order worth Rs 256.89 crore",
+      "date": "06-08-2026 09:23"
+    },
+    {
+      "headline": "Wipro, Rubrik launch Enterprise Resilience as a Service",
+      "date": "06-08-2026 09:17"
+    },
+    {
       "headline": "Infosys expands long-standing collaboration with Metsa Group",
       "date": "05-08-2026 18:21"
     },
@@ -23,25 +39,17 @@
     {
       "headline": "Urban Company launches Native M3 & M3 Pro Water Purifier",
       "date": "05-08-2026 16:44"
-    },
-    {
-      "headline": "Sterling Tools gets nod to invest up to Rs 15 crore in Sterling Tech-Mobility",
-      "date": "05-08-2026 16:29"
-    },
-    {
-      "headline": "Kotyark Industries gets LoIs from BPCL, HPCL",
-      "date": "05-08-2026 16:13"
-    },
-    {
-      "headline": "Jeena Sikho Lifecare launches new product 'Amrit Dhara Drops'",
-      "date": "05-08-2026 15:58"
-    },
-    {
-      "headline": "Apollo Micro Systems bags orders worth Rs 213.39 crore",
-      "date": "05-08-2026 15:47"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net sellers of Rs 14,506.09 crore in index futures and options segments on August 05",
+      "date": "06-08-2026 09:40"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 98,94,427.01 crore on August 05",
+      "date": "06-08-2026 09:37"
+    },
     {
       "headline": "Nifty manages to end above neutral line on Wednesday",
       "date": "05-08-2026 17:09"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty August 2026 futures close at premium of 12.35 points over spot closing",
       "date": "05-08-2026 16:49"
-    },
-    {
-      "headline": "FIIs were net buyers of Rs 17845.26 crore in index futures and options segments on August 04",
-      "date": "05-08-2026 09:25"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 5,14,64,056.71 crore on August 04",
-      "date": "05-08-2026 09:15"
     }
   ],
-  "lastUpdated": "2026-08-06T00:52:13.936Z"
+  "lastUpdated": "2026-08-06T04:17:01.211Z"
 }
