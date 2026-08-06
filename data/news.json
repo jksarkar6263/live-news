@@ -1,6 +1,10 @@
 {
   "general": [
     {
+      "headline": "Railtel bags LoA worth Rs 37.67 crore from North Western Railway",
+      "date": "06-08-2026 18:27"
+    },
+    {
       "headline": "Bondada Group's company bags orders worth Rs 2.10 crore",
       "date": "06-08-2026 17:39"
     },
@@ -29,19 +33,19 @@
       "date": "06-08-2026 16:00"
     },
     {
+      "headline": "Crompton Greaves reports 15% rise in Q1 consolidated net profit",
+      "date": "06-08-2026 16:00"
+    },
+    {
       "headline": "Trent reports 21% rise in Q1 consolidated net profit",
       "date": "06-08-2026 15:45"
-    },
-    {
-      "headline": "Paradeep Phosphates gets nod to incorporates wholly-owned subsidiary",
-      "date": "06-08-2026 15:30"
-    },
-    {
-      "headline": "Zodiac-JRD-MKJ gets nod to raise funds worth Rs 40 crore",
-      "date": "06-08-2026 15:20"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends flat with positive bias on Thursday",
+      "date": "06-08-2026 18:08"
+    },
     {
       "headline": "Nifty August 2026 futures close at premium of 102.00 points over spot closing",
       "date": "06-08-2026 16:38"
@@ -53,11 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 98,94,427.01 crore on August 05",
       "date": "06-08-2026 09:37"
-    },
-    {
-      "headline": "Nifty manages to end above neutral line on Wednesday",
-      "date": "05-08-2026 17:09"
     }
   ],
-  "lastUpdated": "2026-08-06T12:28:43.412Z"
+  "lastUpdated": "2026-08-06T14:56:30.082Z"
 }
