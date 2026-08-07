@@ -1,7 +1,19 @@
 {
   "general": [
     {
-      "headline": "Titan Company report 63% jump in Q1 consolidated net profit",
+      "headline": "Jamna Auto gets nod to setup Leaf Spring Manufacturing Facility in Jharkhand",
+      "date": "07-08-2026 18:24"
+    },
+    {
+      "headline": "SBI reports 14% rise in Q1 consolidated net profit",
+      "date": "07-08-2026 18:03"
+    },
+    {
+      "headline": "GE Shipping contracts to buy Kamsarmax Dry Bulk carrier",
+      "date": "07-08-2026 17:40"
+    },
+    {
+      "headline": "Titan Company reports 63% jump in Q1 consolidated net profit",
       "date": "07-08-2026 17:19"
     },
     {
@@ -27,21 +39,13 @@
     {
       "headline": "Tech Mahindra partners with I-HUB QTF",
       "date": "07-08-2026 15:45"
-    },
-    {
-      "headline": "Larsen & Toubro's business vertical wins orders from ONGC",
-      "date": "07-08-2026 15:27"
-    },
-    {
-      "headline": "Apeejay Surrendra Park Hotels’ Flurys expands North India presence with new cafe in Gurugram",
-      "date": "07-08-2026 15:11"
-    },
-    {
-      "headline": "J Kumar Infraprojects bags LoA worth Rs 990.16 crore",
-      "date": "07-08-2026 14:58"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends lower on Friday",
+      "date": "07-08-2026 18:07"
+    },
     {
       "headline": "Nifty August 2026 futures close at premium of 80.55 points over spot closing",
       "date": "07-08-2026 16:48"
@@ -53,11 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 74,64,776.07 crore on August 06",
       "date": "07-08-2026 09:18"
-    },
-    {
-      "headline": "Nifty ends flat with positive bias on Thursday",
-      "date": "06-08-2026 18:08"
     }
   ],
-  "lastUpdated": "2026-08-07T12:10:23.766Z"
+  "lastUpdated": "2026-08-07T13:50:39.127Z"
 }
