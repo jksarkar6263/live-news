@@ -1,6 +1,10 @@
 {
   "general": [
     {
+      "headline": "NMDC fixes iron ore prices",
+      "date": "08-08-2026 10:03"
+    },
+    {
       "headline": "Jamna Auto gets nod to setup Leaf Spring Manufacturing Facility in Jharkhand",
       "date": "07-08-2026 18:24"
     },
@@ -35,13 +39,17 @@
     {
       "headline": "Praruh Technologies signs business agreement with WizeVerse Al",
       "date": "07-08-2026 16:00"
-    },
-    {
-      "headline": "Tech Mahindra partners with I-HUB QTF",
-      "date": "07-08-2026 15:45"
     }
   ],
   "derivative": [
+    {
+      "headline": "F&O total turnover stood at Rs 7,90,32,835 crore on August 07",
+      "date": "08-08-2026 09:58"
+    },
+    {
+      "headline": "FIIs were net sellers of Rs 4039.48 crore in index futures and options segments on August 7",
+      "date": "08-08-2026 09:55"
+    },
     {
       "headline": "Nifty ends lower on Friday",
       "date": "07-08-2026 18:07"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty August 2026 futures close at premium of 80.55 points over spot closing",
       "date": "07-08-2026 16:48"
-    },
-    {
-      "headline": "FIIs were net buyers of Rs 1021.99 crore in index futures and options segments on August 06",
-      "date": "07-08-2026 09:23"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 74,64,776.07 crore on August 06",
-      "date": "07-08-2026 09:18"
     }
   ],
-  "lastUpdated": "2026-08-08T03:40:38.240Z"
+  "lastUpdated": "2026-08-08T05:02:34.348Z"
 }
