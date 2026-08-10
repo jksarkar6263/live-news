@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Lupin gets USFDA’s nod for Sodium Zirconium Cyclosilicate for Oral Suspension in US",
+      "date": "10-08-2026 18:14"
+    },
+    {
+      "headline": "Zydus Lifesciences launches REVAHALE",
+      "date": "10-08-2026 17:48"
+    },
+    {
       "headline": "Ameenji Rubber bags purchase order worth Rs 2.90 crore",
       "date": "10-08-2026 17:22"
     },
@@ -31,17 +39,13 @@
     {
       "headline": "Hindustan Copper reports two-fold jump in Q1 consolidated net profit",
       "date": "10-08-2026 15:29"
-    },
-    {
-      "headline": "CESC’s arm to acquire 1.4 GWp operating solar portfolio from Renew Solar Power",
-      "date": "10-08-2026 15:20"
-    },
-    {
-      "headline": "Signatureglobal (India), Signatureglobal Business Park ink pacts for land parcels in Gurugram",
-      "date": "10-08-2026 15:11"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends slightly higher on Monday",
+      "date": "10-08-2026 18:00"
+    },
     {
       "headline": "Nifty August 2026 futures close at premium of 78.20 points over spot closing",
       "date": "10-08-2026 16:37"
@@ -53,11 +57,7 @@
     {
       "headline": "FIIs were net sellers of Rs 4039.48 crore in index futures and options segments on August 7",
       "date": "08-08-2026 09:55"
-    },
-    {
-      "headline": "Nifty ends lower on Friday",
-      "date": "07-08-2026 18:07"
     }
   ],
-  "lastUpdated": "2026-08-10T12:09:27.255Z"
+  "lastUpdated": "2026-08-10T13:56:45.571Z"
 }
