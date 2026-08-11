@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Zydus Lifesciences reports 36% decline in Q1 consolidated net profit",
+      "date": "11-08-2026 18:16"
+    },
+    {
+      "headline": "Firstsource Solutions enters into strategic partnership with Cresta",
+      "date": "11-08-2026 17:46"
+    },
+    {
       "headline": "Ahasolar Technologies bags order from GIZ GmbH",
       "date": "11-08-2026 17:26"
     },
@@ -31,17 +39,13 @@
     {
       "headline": "ICICI Prudential AMC gets nod to acquire PMS business of ICICI Securities",
       "date": "11-08-2026 15:39"
-    },
-    {
-      "headline": "Kotyark Industries secures Rs 173.45 crore biodiesel supply contract",
-      "date": "11-08-2026 15:28"
-    },
-    {
-      "headline": "Antony Waste Handling Cell bags order worth Rs 243.22 crore",
-      "date": "11-08-2026 15:19"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends lower amid surge in crude oil prices",
+      "date": "11-08-2026 17:58"
+    },
     {
       "headline": "Nifty August 2026 futures close at premium of 53.40 points over spot closing",
       "date": "11-08-2026 16:38"
@@ -53,11 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 1,74,59,009.89 crore on August 10",
       "date": "11-08-2026 09:21"
-    },
-    {
-      "headline": "Nifty ends slightly higher on Monday",
-      "date": "10-08-2026 18:00"
     }
   ],
-  "lastUpdated": "2026-08-11T12:11:03.873Z"
+  "lastUpdated": "2026-08-11T13:55:50.325Z"
 }
