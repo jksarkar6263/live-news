@@ -1,6 +1,22 @@
 {
   "general": [
     {
+      "headline": "Tata Motors reports 83% jump in Q1 consolidated net profit",
+      "date": "12-08-2026 18:28"
+    },
+    {
+      "headline": "Diamond Power Infrastructure bags LoI worth Rs 61.03 crore",
+      "date": "12-08-2026 18:01"
+    },
+    {
+      "headline": "Texmaco Rail bags order worth Rs 77.76 crore from IVC Logistics",
+      "date": "12-08-2026 17:45"
+    },
+    {
+      "headline": "Poonawalla Fincorp gets nod to raise up to Rs 750 crore through NCDs",
+      "date": "12-08-2026 17:22"
+    },
+    {
       "headline": "B.R.Goyal Infrastructure bags work order worth Rs 39 crore",
       "date": "12-08-2026 16:59"
     },
@@ -23,25 +39,13 @@
     {
       "headline": "Grasim Industries reports 51% jump in Q1 consolidated net profit",
       "date": "12-08-2026 15:48"
-    },
-    {
-      "headline": "CAMS, IIT Madras sign MoU to boost next-generation FinTech innovation",
-      "date": "12-08-2026 15:39"
-    },
-    {
-      "headline": "Greaves Cotton’s Ampere launches upgraded Magnus G Max scooter",
-      "date": "12-08-2026 15:30"
-    },
-    {
-      "headline": "Expo Engineering bags Rs 4.22 crore work order from Larsen & Toubro",
-      "date": "12-08-2026 15:18"
-    },
-    {
-      "headline": "JSW Energy signs shareholders' agreement with Druk Green Power Corporation",
-      "date": "12-08-2026 15:12"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends marginally lower on Wednesday",
+      "date": "12-08-2026 17:16"
+    },
     {
       "headline": "Nifty August 2026 futures close at premium of 44.95 points over spot closing",
       "date": "12-08-2026 16:20"
@@ -53,11 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 3,52,57,147.41 crore on August 11",
       "date": "12-08-2026 09:19"
-    },
-    {
-      "headline": "Nifty ends lower amid surge in crude oil prices",
-      "date": "11-08-2026 17:58"
     }
   ],
-  "lastUpdated": "2026-08-12T11:51:39.059Z"
+  "lastUpdated": "2026-08-12T13:20:51.980Z"
 }
