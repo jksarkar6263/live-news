@@ -1,6 +1,22 @@
 {
   "general": [
     {
+      "headline": "Adani Ports’ arm incorporates wholly owned subsidiary",
+      "date": "12-08-2026 09:42"
+    },
+    {
+      "headline": "Zydus Lifesciences’ arm enters into option and license agreement with Mereo",
+      "date": "12-08-2026 09:29"
+    },
+    {
+      "headline": "Saatvik Green Energy’s arm bags order worth Rs 400.16 crore",
+      "date": "12-08-2026 09:17"
+    },
+    {
+      "headline": "BEML secures order worth Rs 184.25 crore from HAL",
+      "date": "12-08-2026 09:08"
+    },
+    {
       "headline": "Zydus Lifesciences reports 36% decline in Q1 consolidated net profit",
       "date": "11-08-2026 18:16"
     },
@@ -23,25 +39,17 @@
     {
       "headline": "Pee Cee Cosma Sope gets nod to make investment in India Trading Infra",
       "date": "11-08-2026 16:28"
-    },
-    {
-      "headline": "Emrock Corporation acquires 51% stake in Emrock Renewable",
-      "date": "11-08-2026 16:11"
-    },
-    {
-      "headline": "Bondada Engineering bags orders for BESS projects, BSNL towers",
-      "date": "11-08-2026 15:58"
-    },
-    {
-      "headline": "Advait Energy Transitions bags order worth Rs 24.88 crore",
-      "date": "11-08-2026 15:47"
-    },
-    {
-      "headline": "ICICI Prudential AMC gets nod to acquire PMS business of ICICI Securities",
-      "date": "11-08-2026 15:39"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net sellers of Rs 25420.82 crore in index futures and options segments on August 11",
+      "date": "12-08-2026 09:29"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 3,52,57,147.41 crore on August 11",
+      "date": "12-08-2026 09:19"
+    },
     {
       "headline": "Nifty ends lower amid surge in crude oil prices",
       "date": "11-08-2026 17:58"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty August 2026 futures close at premium of 53.40 points over spot closing",
       "date": "11-08-2026 16:38"
-    },
-    {
-      "headline": "FIIs were net buyers of Rs 3571.70 crore in index futures and options segments on August 10",
-      "date": "11-08-2026 09:29"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 1,74,59,009.89 crore on August 10",
-      "date": "11-08-2026 09:21"
     }
   ],
-  "lastUpdated": "2026-08-12T02:22:42.424Z"
+  "lastUpdated": "2026-08-12T04:23:10.970Z"
 }
