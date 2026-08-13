@@ -1,47 +1,55 @@
 {
   "general": [
     {
+      "headline": "HEG enters into media services agreement with Adfactors PR",
+      "date": "13-08-2026 10:40"
+    },
+    {
+      "headline": "GE Power bags NOA for Shoaiba Fuel Conversion Project in Saudi Arabia",
+      "date": "13-08-2026 10:30"
+    },
+    {
+      "headline": "Speciality Medicines gets regulatory approval for two new products in Ethiopia",
+      "date": "13-08-2026 10:19"
+    },
+    {
+      "headline": "Black Box secures Rs 1,240 crore order for major data centre project in U.S",
+      "date": "13-08-2026 10:11"
+    },
+    {
+      "headline": "UltraTech Cement to acquire 26% stake in Solaris Horizon Energy",
+      "date": "13-08-2026 09:58"
+    },
+    {
+      "headline": "Vascon Engineers wins Rs 126.39 crore LoI for hospital project",
+      "date": "13-08-2026 09:44"
+    },
+    {
+      "headline": "Atishay secures work order worth Rs 3.66 crore",
+      "date": "13-08-2026 09:30"
+    },
+    {
+      "headline": "Raymond Realty incorporates wholly owned subsidiary",
+      "date": "13-08-2026 09:22"
+    },
+    {
+      "headline": "Juniper Green Energy commissions 167 MW wind capacity",
+      "date": "13-08-2026 09:16"
+    },
+    {
       "headline": "Tata Motors reports 83% jump in Q1 consolidated net profit",
       "date": "12-08-2026 18:28"
-    },
-    {
-      "headline": "Diamond Power Infrastructure bags LoI worth Rs 61.03 crore",
-      "date": "12-08-2026 18:01"
-    },
-    {
-      "headline": "Texmaco Rail bags order worth Rs 77.76 crore from IVC Logistics",
-      "date": "12-08-2026 17:45"
-    },
-    {
-      "headline": "Poonawalla Fincorp gets nod to raise up to Rs 750 crore through NCDs",
-      "date": "12-08-2026 17:22"
-    },
-    {
-      "headline": "B.R.Goyal Infrastructure bags work order worth Rs 39 crore",
-      "date": "12-08-2026 16:59"
-    },
-    {
-      "headline": "Hindustan Aeronautics reports 15% rise in Q1 consolidated net profit",
-      "date": "12-08-2026 16:47"
-    },
-    {
-      "headline": "Justo Realfintech adds four real estate mandates to Pune portfolio",
-      "date": "12-08-2026 16:29"
-    },
-    {
-      "headline": "Coal India signs MoU with ArcelorMittal Nippon Steel India",
-      "date": "12-08-2026 16:11"
-    },
-    {
-      "headline": "Ahasolar Technologies bags work order from International Solar Alliance",
-      "date": "12-08-2026 15:59"
-    },
-    {
-      "headline": "Grasim Industries reports 51% jump in Q1 consolidated net profit",
-      "date": "12-08-2026 15:48"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net sellers of Rs 4153.51 crore in index futures and options segments on August 12",
+      "date": "13-08-2026 09:37"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 85,49,146.46 crore on August 12",
+      "date": "13-08-2026 09:32"
+    },
     {
       "headline": "Nifty ends marginally lower on Wednesday",
       "date": "12-08-2026 17:16"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty August 2026 futures close at premium of 44.95 points over spot closing",
       "date": "12-08-2026 16:20"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 25420.82 crore in index futures and options segments on August 11",
-      "date": "12-08-2026 09:29"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 3,52,57,147.41 crore on August 11",
-      "date": "12-08-2026 09:19"
     }
   ],
-  "lastUpdated": "2026-08-13T03:08:56.528Z"
+  "lastUpdated": "2026-08-13T05:18:16.725Z"
 }
