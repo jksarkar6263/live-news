@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Glenmark Pharma gets USFDA’s nod for Fluticasone Propionate Nasal Spray",
+      "date": "20-08-2026 09:23"
+    },
+    {
+      "headline": "Brigade Enterprises acquires 100% stake in Celebrations",
+      "date": "20-08-2026 09:13"
+    },
+    {
       "headline": "Hexaware Technologies introduces ‘Zero Vulnerability’",
       "date": "19-08-2026 18:22"
     },
@@ -31,17 +39,13 @@
     {
       "headline": "JOJO enters content distribution agreement with Jio Platforms",
       "date": "19-08-2026 15:58"
-    },
-    {
-      "headline": "Cranex secures Rs 1.02 crore LoA from North Central Railway",
-      "date": "19-08-2026 15:43"
-    },
-    {
-      "headline": "Dynacons Systems & Solutions achieves SOC 2 Type II Certification",
-      "date": "19-08-2026 15:28"
     }
   ],
   "derivative": [
+    {
+      "headline": "F&O total turnover stood at Rs 79,54,869.62 crore on August 19",
+      "date": "20-08-2026 09:30"
+    },
     {
       "headline": "Nifty ends lower for seventh straight session on Wednesday",
       "date": "19-08-2026 17:25"
@@ -53,11 +57,7 @@
     {
       "headline": "FIIs were net sellers of Rs 26192.08 crore in index futures and options segments on August 18",
       "date": "19-08-2026 09:27"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 4,44,26,474.93 crore on August 18",
-      "date": "19-08-2026 09:20"
     }
   ],
-  "lastUpdated": "2026-08-20T03:01:22.303Z"
+  "lastUpdated": "2026-08-20T04:08:40.161Z"
 }
