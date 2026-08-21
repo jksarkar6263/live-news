@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Avenue Supermarts opens new store in Pune",
+      "date": "21-08-2026 16:44"
+    },
+    {
+      "headline": "Zydus Lifesciences gets USFDA’s final approval for Ascorbic Acid Injection",
+      "date": "21-08-2026 16:29"
+    },
+    {
       "headline": "Home First Finance Company gets nod to raise Rs 150 crore via NCDs",
       "date": "21-08-2026 16:14"
     },
@@ -31,17 +39,13 @@
     {
       "headline": "Paradeep Phosphates launches customized fertilizer 'Jai Kisaan Navratna Cropfit'",
       "date": "21-08-2026 14:51"
-    },
-    {
-      "headline": "General Atlantic sells 8.7% stake in KFin Technologies",
-      "date": "21-08-2026 14:41"
-    },
-    {
-      "headline": "Anant Raj gets registration certificate for residential group housing project in Gurugram",
-      "date": "21-08-2026 14:30"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty August 2026 futures close at premium of 36.00 points over spot closing",
+      "date": "21-08-2026 16:29"
+    },
     {
       "headline": "FIIs were net sellers of Rs 2822.89 crore in index futures and options segments on August 20",
       "date": "21-08-2026 09:21"
@@ -53,11 +57,7 @@
     {
       "headline": "Nifty snaps seven-day losing streak on Thursday",
       "date": "20-08-2026 17:41"
-    },
-    {
-      "headline": "Nifty August 2026 futures close at premium of 58.65 points over spot closing",
-      "date": "20-08-2026 16:25"
     }
   ],
-  "lastUpdated": "2026-08-21T10:58:37.435Z"
+  "lastUpdated": "2026-08-21T11:34:03.766Z"
 }
