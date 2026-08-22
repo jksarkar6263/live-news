@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "Power Grid Corporation declared as successful bidder to establish transmission system",
+      "date": "22-08-2026 10:49"
+    },
+    {
+      "headline": "Titagarh Rail Systems inaugurates new Design & Operations Centre in West Bengal",
+      "date": "22-08-2026 10:12"
+    },
+    {
       "headline": "Jhaveri Credits bags LoI worth Rs 10.65 crore from GEDA",
       "date": "21-08-2026 18:27"
     },
@@ -31,17 +39,13 @@
     {
       "headline": "Home First Finance Company gets nod to raise Rs 150 crore via NCDs",
       "date": "21-08-2026 16:14"
-    },
-    {
-      "headline": "Puravankara’s arm gets LoI worth Rs 175 crore",
-      "date": "21-08-2026 15:57"
-    },
-    {
-      "headline": "Pace Digitek’s arm secures LoA worth Rs 92.92 crore",
-      "date": "21-08-2026 15:43"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net buyers of Rs 1201.66 crore in index futures and options segments on August 21",
+      "date": "22-08-2026 10:10"
+    },
     {
       "headline": "F&O total turnover stood at Rs 1,11,70,428.25 crore on August 21",
       "date": "22-08-2026 10:00"
@@ -53,11 +57,7 @@
     {
       "headline": "Nifty August 2026 futures close at premium of 36.00 points over spot closing",
       "date": "21-08-2026 16:29"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 2822.89 crore in index futures and options segments on August 20",
-      "date": "21-08-2026 09:21"
     }
   ],
-  "lastUpdated": "2026-08-22T04:37:55.025Z"
+  "lastUpdated": "2026-08-22T05:31:55.257Z"
 }
