@@ -1,6 +1,22 @@
 {
   "general": [
     {
+      "headline": "Indian Hotels Company opens Taj Tadoba Resort & Spa in Nagpur",
+      "date": "25-08-2026 16:09"
+    },
+    {
+      "headline": "Fractal Analytics launches dedicated India BU to help large enterprises",
+      "date": "25-08-2026 15:58"
+    },
+    {
+      "headline": "BMW Ventures bags orders worth Rs 24.98 crore from Tata Projects",
+      "date": "25-08-2026 15:44"
+    },
+    {
+      "headline": "Swelect Energy System’s arm commissions Solar Power Plant in Tamil Nadu",
+      "date": "25-08-2026 15:28"
+    },
+    {
       "headline": "Oriental Rail Infrastructure secures order worth Rs 1.76 crore",
       "date": "25-08-2026 15:19"
     },
@@ -23,25 +39,13 @@
     {
       "headline": "Pavna Industries gets nod to acquire 52.38% stake in Pavna Electric Systems",
       "date": "25-08-2026 14:30"
-    },
-    {
-      "headline": "ACME Solar Holdings secures 300 MW contracted capacity in SECI’s tender",
-      "date": "25-08-2026 14:22"
-    },
-    {
-      "headline": "Fischer Medical Ventures’ arm wins Catanduanes Integrated Digital Healthcare Project",
-      "date": "25-08-2026 14:11"
-    },
-    {
-      "headline": "CapitalNumbers Infotech completes acquisition of 100% of Epitome Cloud Inc",
-      "date": "25-08-2026 12:59"
-    },
-    {
-      "headline": "Suzlon secures 250 MW wind order from Torrent Green Energy",
-      "date": "25-08-2026 12:44"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty September 2026 futures close at premium of 150.65 points over spot closing",
+      "date": "25-08-2026 16:18"
+    },
     {
       "headline": "FIIs were net buyers of Rs 20450.07 crore in index futures and options segments on August 24",
       "date": "25-08-2026 09:30"
@@ -53,11 +57,7 @@
     {
       "headline": "Nifty ends marginally lower on Monday",
       "date": "24-08-2026 18:07"
-    },
-    {
-      "headline": "Nifty August 2026 futures close at discount of 30.95 points over spot closing",
-      "date": "24-08-2026 16:44"
     }
   ],
-  "lastUpdated": "2026-08-25T10:01:52.666Z"
+  "lastUpdated": "2026-08-25T11:00:29.949Z"
 }
