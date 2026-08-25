@@ -1,6 +1,18 @@
 {
   "general": [
     {
+      "headline": "Coal India incorporates wholly owned subsidiary in Singapore",
+      "date": "25-08-2026 09:28"
+    },
+    {
+      "headline": "CSM Technologies expands digital identity solutions with MOSIP adoption",
+      "date": "25-08-2026 09:17"
+    },
+    {
+      "headline": "Krystal Integrated Services bags order worth Rs 17.25 crore",
+      "date": "25-08-2026 09:09"
+    },
+    {
       "headline": "TCS, Porsche AG join forces to accelerate future of AI-powered mobility",
       "date": "24-08-2026 18:16"
     },
@@ -27,21 +39,17 @@
     {
       "headline": "Godrej Industries Group signs MoU with Government of Haryana",
       "date": "24-08-2026 16:14"
-    },
-    {
-      "headline": "Garden Reach Shipbuilders bags order worth Rs 45.02 crore",
-      "date": "24-08-2026 15:58"
-    },
-    {
-      "headline": "Tube Investments of India raises stake in Shanthi Gears",
-      "date": "24-08-2026 15:50"
-    },
-    {
-      "headline": "Aurobindo Pharma’s arm receives four observations from USFDA",
-      "date": "24-08-2026 15:41"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net buyers of Rs 20450.07 crore in index futures and options segments on August 24",
+      "date": "25-08-2026 09:30"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 2,13,05,499.50 crore on August 24",
+      "date": "25-08-2026 09:21"
+    },
     {
       "headline": "Nifty ends marginally lower on Monday",
       "date": "24-08-2026 18:07"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty August 2026 futures close at discount of 30.95 points over spot closing",
       "date": "24-08-2026 16:44"
-    },
-    {
-      "headline": "FIIs were net buyers of Rs 1201.66 crore in index futures and options segments on August 21",
-      "date": "22-08-2026 10:10"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 1,11,70,428.25 crore on August 21",
-      "date": "22-08-2026 10:00"
     }
   ],
-  "lastUpdated": "2026-08-25T03:03:19.777Z"
+  "lastUpdated": "2026-08-25T04:09:30.752Z"
 }
