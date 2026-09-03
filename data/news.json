@@ -1,6 +1,18 @@
 {
   "general": [
     {
+      "headline": "Power Grid Corporation emerges as successful bidder for Rajasthan transmission project",
+      "date": "03-09-2026 09:30"
+    },
+    {
+      "headline": "Indo Tech Transformers bags orders worth Rs 165.55 crore",
+      "date": "03-09-2026 09:21"
+    },
+    {
+      "headline": "Axis Solutions launches hydrogen-to-electricity generator system",
+      "date": "03-09-2026 09:12"
+    },
+    {
       "headline": "Mahindra Lifespace launches Mahindra Lakewoods Phase IV at Mahindra World City, Chennai",
       "date": "02-09-2026 18:29"
     },
@@ -27,21 +39,17 @@
     {
       "headline": "Renaissance Global’s arm to make strategic investment in Naman Trading FZC",
       "date": "02-09-2026 16:29"
-    },
-    {
-      "headline": "Coforge introduces AI Launchpad",
-      "date": "02-09-2026 16:07"
-    },
-    {
-      "headline": "Adani Ports reports over 19% growth in cargo volume in August 2026",
-      "date": "02-09-2026 15:57"
-    },
-    {
-      "headline": "Fineotex Chemical’s arm incorporates wholly-owned step-down subsidiary in USA",
-      "date": "02-09-2026 15:49"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net sellers of Rs 14969.21 crore in index futures and options segments on September 02",
+      "date": "03-09-2026 09:36"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 85,96,738.42 crore on September 02",
+      "date": "03-09-2026 09:32"
+    },
     {
       "headline": "Nifty extends losing streak for third straight day on Wednesday",
       "date": "02-09-2026 17:24"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty September 2026 futures close at premium of 80.35 points over spot closing",
       "date": "02-09-2026 16:44"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 26938.51 crore in index futures and options segments on September 01",
-      "date": "02-09-2026 09:11"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 5,99,39,452.80 crore on September 01",
-      "date": "02-09-2026 09:04"
     }
   ],
-  "lastUpdated": "2026-09-02T23:56:04.266Z"
+  "lastUpdated": "2026-09-03T04:07:02.646Z"
 }
