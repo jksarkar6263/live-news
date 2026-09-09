@@ -1,6 +1,14 @@
 {
   "general": [
     {
+      "headline": "NMDC fixes iron ore prices",
+      "date": "09-09-2026 09:17"
+    },
+    {
+      "headline": "Adani Energy Solutions’ arm signs PPA with MSEDCL",
+      "date": "09-09-2026 09:03"
+    },
+    {
       "headline": "Innovision bags two LoAs from NHAI",
       "date": "08-09-2026 18:25"
     },
@@ -31,17 +39,13 @@
     {
       "headline": "M&M launches ‘New Veero 1.1 XXL CNG’, ‘Upgraded Veero Diesel’",
       "date": "08-09-2026 16:14"
-    },
-    {
-      "headline": "Jupiter Wagons secures order from GATX India",
-      "date": "08-09-2026 15:58"
-    },
-    {
-      "headline": "Deep Industries gets LoA worth Rs 88.15 crore",
-      "date": "08-09-2026 15:49"
     }
   ],
   "derivative": [
+    {
+      "headline": "F&O total turnover stood at Rs 4,41,81,530.54 crore on September 08",
+      "date": "09-09-2026 09:17"
+    },
     {
       "headline": "Nifty plunges over half percent on Tuesday",
       "date": "08-09-2026 18:04"
@@ -53,11 +57,7 @@
     {
       "headline": "FIIs were net buyers of Rs 7389.06 crore in index futures and options segments on September 07",
       "date": "08-09-2026 09:25"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 1,98,73,446.78 crore on September 07",
-      "date": "08-09-2026 09:20"
     }
   ],
-  "lastUpdated": "2026-09-08T23:34:28.336Z"
+  "lastUpdated": "2026-09-09T04:05:29.756Z"
 }
