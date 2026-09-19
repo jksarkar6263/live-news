@@ -1,5 +1,46 @@
 {
-  "general": [],
+  "general": [
+    {
+      "headline": "Avenue Supermarts opens new store in Punjab",
+      "date": "19-09-2026 18:15"
+    },
+    {
+      "headline": "United Drilling Tools secures order worth Rs 4.78 crore",
+      "date": "19-09-2026 17:27"
+    },
+    {
+      "headline": "Refex Industries bags contract worth Rs 160 crore",
+      "date": "19-09-2026 16:50"
+    },
+    {
+      "headline": "Chiraharit receives orders worth Rs 59.60 lakh",
+      "date": "19-09-2026 16:16"
+    },
+    {
+      "headline": "East India Drums bags Rs 59.02 crore contract from HPCL",
+      "date": "19-09-2026 15:31"
+    },
+    {
+      "headline": "Fedders Holding’s arm completes construction of commercial real estate project in Noida",
+      "date": "19-09-2026 14:56"
+    },
+    {
+      "headline": "Lemon Tree Hotels’ arm gets nod to incorporate subsidiary in Republic of Maldives",
+      "date": "19-09-2026 14:23"
+    },
+    {
+      "headline": "Maruti Suzuki India introduces automatic S-CNG models for Swift, Dzire, Baleno",
+      "date": "19-09-2026 13:16"
+    },
+    {
+      "headline": "Panorama Studios International’s arm inks pact with Serene Films",
+      "date": "19-09-2026 12:14"
+    },
+    {
+      "headline": "Indoco Remedies gets nod to incorporate wholly owned subsidiary",
+      "date": "19-09-2026 11:49"
+    }
+  ],
   "derivative": [
     {
       "headline": "FIIs were net buyers of Rs 4669.24 crore in index futures and options segments on September 18",
@@ -18,5 +59,5 @@
       "date": "18-09-2026 16:29"
     }
   ],
-  "lastUpdated": "2026-09-19T08:56:28.974Z"
+  "lastUpdated": "2026-09-19T13:00:14.767Z"
 }
