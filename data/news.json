@@ -1,6 +1,55 @@
 {
-  "general": [],
+  "general": [
+    {
+      "headline": "Emerald Finance partners with AIC Infrastructures",
+      "date": "25-09-2026 18:01"
+    },
+    {
+      "headline": "Cosmic CRF bags order worth Rs 13.30 crore from Infrastructure Company",
+      "date": "25-09-2026 17:40"
+    },
+    {
+      "headline": "Moneyboxx Finance raises Rs 60 crore via NCDs",
+      "date": "25-09-2026 17:12"
+    },
+    {
+      "headline": "Swelect Energy gets nod to invest up to Rs 20.76 crore in USolar Assetco Four",
+      "date": "25-09-2026 16:42"
+    },
+    {
+      "headline": "Signatureglobal (India) plans to develop ultra-luxury farmhouse villa destination",
+      "date": "25-09-2026 16:29"
+    },
+    {
+      "headline": "JSW Energy’s arm secures Turbine-Generators for entire 3,200 MW Salboni Thermal Project in West Bengal",
+      "date": "25-09-2026 16:12"
+    },
+    {
+      "headline": "IDFC FIRST Bank integrates payment gateway for CBDT collections",
+      "date": "25-09-2026 16:00"
+    },
+    {
+      "headline": "Adon Agro Commodities launches new range of flavored almonds, cashew nuts",
+      "date": "25-09-2026 15:49"
+    },
+    {
+      "headline": "Prestige Estates Projects launches Prestige Parklane in Bengaluru",
+      "date": "25-09-2026 15:37"
+    },
+    {
+      "headline": "Refex Industries commences RMC business",
+      "date": "25-09-2026 15:29"
+    }
+  ],
   "derivative": [
+    {
+      "headline": "Nifty ends last trading session of week on higher note",
+      "date": "25-09-2026 17:33"
+    },
+    {
+      "headline": "Nifty September 2026 futures close at premium of 49.50 points over spot closing",
+      "date": "25-09-2026 16:49"
+    },
     {
       "headline": "FIIs were net buyers of Rs 8013.81 crore in index futures and options segments on September 24",
       "date": "25-09-2026 09:33"
@@ -8,15 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 1,13,56,179.36 crore on September 24",
       "date": "25-09-2026 09:25"
-    },
-    {
-      "headline": "Nifty ends deep in red amid surge in crude oil prices",
-      "date": "24-09-2026 17:14"
-    },
-    {
-      "headline": "Nifty September 2026 futures close at premium of 31.90 points over spot closing",
-      "date": "24-09-2026 16:20"
     }
   ],
-  "lastUpdated": "2026-09-25T07:27:01.257Z"
+  "lastUpdated": "2026-09-25T12:55:18.926Z"
 }
