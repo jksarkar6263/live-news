@@ -1,6 +1,18 @@
 {
   "general": [
     {
+      "headline": "PVR INOX unveils cinema destination in Kochi",
+      "date": "26-09-2026 10:40"
+    },
+    {
+      "headline": "Baazar Style Retail opens new store of Style Baazar in West Bengal",
+      "date": "26-09-2026 10:29"
+    },
+    {
+      "headline": "Lemon Tree Hotels opens Lemon Tree Resort in Nashik",
+      "date": "26-09-2026 10:11"
+    },
+    {
       "headline": "Emerald Finance partners with AIC Infrastructures",
       "date": "25-09-2026 18:01"
     },
@@ -27,21 +39,13 @@
     {
       "headline": "IDFC FIRST Bank integrates payment gateway for CBDT collections",
       "date": "25-09-2026 16:00"
-    },
-    {
-      "headline": "Adon Agro Commodities launches new range of flavored almonds, cashew nuts",
-      "date": "25-09-2026 15:49"
-    },
-    {
-      "headline": "Prestige Estates Projects launches Prestige Parklane in Bengaluru",
-      "date": "25-09-2026 15:37"
-    },
-    {
-      "headline": "Refex Industries commences RMC business",
-      "date": "25-09-2026 15:29"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net buyers of Rs 1,373.36 crore in index futures and options segments on September 25",
+      "date": "26-09-2026 10:42"
+    },
     {
       "headline": "Nifty ends last trading session of week on higher note",
       "date": "25-09-2026 17:33"
@@ -53,11 +57,7 @@
     {
       "headline": "FIIs were net buyers of Rs 8013.81 crore in index futures and options segments on September 24",
       "date": "25-09-2026 09:33"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 1,13,56,179.36 crore on September 24",
-      "date": "25-09-2026 09:25"
     }
   ],
-  "lastUpdated": "2026-09-26T00:03:58.625Z"
+  "lastUpdated": "2026-09-26T05:20:01.716Z"
 }
