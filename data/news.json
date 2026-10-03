@@ -1,6 +1,30 @@
 {
   "general": [
     {
+      "headline": "Shyam Metalics enters into MoU with Government of Maharashtra",
+      "date": "03-10-2026 13:05"
+    },
+    {
+      "headline": "Transformers and Rectifiers (India) bags large order from GETCO",
+      "date": "03-10-2026 12:35"
+    },
+    {
+      "headline": "Mangalam Worldwide incorporates wholly-owned subsidiary in Belgium",
+      "date": "03-10-2026 12:02"
+    },
+    {
+      "headline": "Hindustan Aeronautics inks pact to acquire stake in ATSOFF Helicopter Training",
+      "date": "03-10-2026 11:11"
+    },
+    {
+      "headline": "Granules India incorporates wholly owned subsidiary",
+      "date": "03-10-2026 10:27"
+    },
+    {
+      "headline": "NIS Management’s arm bags work order worth Rs 53.15 lakh",
+      "date": "03-10-2026 09:54"
+    },
+    {
       "headline": "Tata Motors registers 42% jump in total sales in September",
       "date": "01-10-2026 18:29"
     },
@@ -15,33 +39,17 @@
     {
       "headline": "Redington enters into distribution partnership with OPSWAT",
       "date": "01-10-2026 16:59"
-    },
-    {
-      "headline": "HEG Advanced Materials’ arm bags orders worth Rs 127.35 crore from Indus Towers",
-      "date": "01-10-2026 16:45"
-    },
-    {
-      "headline": "Indian Hotels Company signs Gateway hotel in West Bengal",
-      "date": "01-10-2026 16:29"
-    },
-    {
-      "headline": "M&M’s trucks & buses business sales jump 53% in September 2026",
-      "date": "01-10-2026 16:13"
-    },
-    {
-      "headline": "NLC India’s arm secures LoA from SJVN for BESS project in Haryana",
-      "date": "01-10-2026 15:58"
-    },
-    {
-      "headline": "Ugro Capital raises Rs 137 crore through NCDs",
-      "date": "01-10-2026 15:47"
-    },
-    {
-      "headline": "Ashok Leyland reports 28% rise in September sales",
-      "date": "01-10-2026 15:38"
     }
   ],
   "derivative": [
+    {
+      "headline": "F&O total turnover stood at Rs 1,32,45,980.95 crore on October 1",
+      "date": "03-10-2026 09:42"
+    },
+    {
+      "headline": "FIIs were net buyers of Rs 1057.81 crore in index futures and options segments on October 1",
+      "date": "03-10-2026 09:38"
+    },
     {
       "headline": "Nifty extends losses for fourth straight session on Thursday",
       "date": "01-10-2026 18:02"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty October 2026 futures close at a premium of 98.05 points over spot closing",
       "date": "01-10-2026 17:08"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 6176.22 crore in index futures and options segments on September 30",
-      "date": "01-10-2026 09:39"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 1,00,32,348.76 crore on September 30",
-      "date": "01-10-2026 09:32"
     }
   ],
-  "lastUpdated": "2026-10-03T01:48:50.821Z"
+  "lastUpdated": "2026-10-03T07:51:03.557Z"
 }
