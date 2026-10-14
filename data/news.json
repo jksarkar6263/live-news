@@ -1,6 +1,22 @@
 {
   "general": [
     {
+      "headline": "Hyundai Motor India inaugurates state-of-the-art manufacturing facility in Pune",
+      "date": "14-10-2026 18:25"
+    },
+    {
+      "headline": "L&T signs MoU with TuTr Hyperloop",
+      "date": "14-10-2026 18:08"
+    },
+    {
+      "headline": "Tata Technologies reports 4% rise in Q2 consolidated net profit",
+      "date": "14-10-2026 17:42"
+    },
+    {
+      "headline": "BHEL reports over two-fold jump in Q2 consolidated net profit",
+      "date": "14-10-2026 17:23"
+    },
+    {
       "headline": "Aeroflex Industries to invest Rs 202 crore by March 2028 to strengthen manufacturing prowess",
       "date": "14-10-2026 16:59"
     },
@@ -23,25 +39,13 @@
     {
       "headline": "CAMS, NISM collaborate to advance technology-enabled compliance learning through CAMS Lens",
       "date": "14-10-2026 15:49"
-    },
-    {
-      "headline": "Rajesh Power Services secures LoA worth Rs 69 crore",
-      "date": "14-10-2026 15:37"
-    },
-    {
-      "headline": "Billionbrains Garage Ventures reports 54% jump in Q2 consolidated net profit",
-      "date": "14-10-2026 15:28"
-    },
-    {
-      "headline": "Canara Bank reports 11% rise in Q2 consolidated net profit",
-      "date": "14-10-2026 15:17"
-    },
-    {
-      "headline": "DMR Engineering receives $216,000 engineering consultancy services order",
-      "date": "14-10-2026 15:08"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends lower on Wednesday",
+      "date": "14-10-2026 17:08"
+    },
     {
       "headline": "Nifty October 2026 futures close at premium of 27.30 points over spot closing",
       "date": "14-10-2026 16:41"
@@ -53,11 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 6,35,90,868.74 crore on October 13",
       "date": "14-10-2026 09:29"
-    },
-    {
-      "headline": "Nifty ends higher on Tuesday",
-      "date": "13-10-2026 17:57"
     }
   ],
-  "lastUpdated": "2026-10-14T11:40:05.364Z"
+  "lastUpdated": "2026-10-14T16:54:31.067Z"
 }
