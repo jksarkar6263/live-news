@@ -1,6 +1,30 @@
 {
   "general": [
     {
+      "headline": "L&T Technology Services reports 67% jump in Q2 consolidated net profit",
+      "date": "19-10-2026 18:26"
+    },
+    {
+      "headline": "Mid East Portfolio Management signs MoU with Cher Lifestyle",
+      "date": "19-10-2026 18:02"
+    },
+    {
+      "headline": "Ceigall India’s arm signs transmission service agreement with Central Transmission Utility of India",
+      "date": "19-10-2026 17:42"
+    },
+    {
+      "headline": "Akme Fintrade (India) raises Rs 50 crore through NCDs",
+      "date": "19-10-2026 17:20"
+    },
+    {
+      "headline": "Infosys expands collaboration with Truist",
+      "date": "19-10-2026 16:58"
+    },
+    {
+      "headline": "Hindustan Zinc reports over two-fold jump in Q2 consolidated net profit",
+      "date": "19-10-2026 16:45"
+    },
+    {
       "headline": "Millworks Technologies establishes centre of excellence for 3D printing with Markforged",
       "date": "19-10-2026 16:26"
     },
@@ -15,33 +39,17 @@
     {
       "headline": "UltraTech Cement’s Q2 consolidated net profit rises 21%",
       "date": "19-10-2026 15:46"
-    },
-    {
-      "headline": "Highness Microelectronics inaugurates new glass cutting line at Rabale plant",
-      "date": "19-10-2026 15:38"
-    },
-    {
-      "headline": "Aeroflex Industries gets patent for innovative engineering technology",
-      "date": "19-10-2026 15:29"
-    },
-    {
-      "headline": "Regency Fincorp raises Rs 30 crore through NCDs",
-      "date": "19-10-2026 15:19"
-    },
-    {
-      "headline": "Highness Microelectronics inaugurates new glass cutting line at Rabale facility in Navi Mumbai",
-      "date": "19-10-2026 15:08"
-    },
-    {
-      "headline": "Kwality Pharmaceuticals acquires land for Amritsar manufacturing facility expansion",
-      "date": "19-10-2026 14:58"
-    },
-    {
-      "headline": "NATCO Pharma launches Carboplatin Injection",
-      "date": "19-10-2026 14:49"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends lower with cut of over one percent on Monday",
+      "date": "19-10-2026 17:31"
+    },
+    {
+      "headline": "Nifty October 2026 futures close at premium of 5.05 points over spot closing",
+      "date": "19-10-2026 16:28"
+    },
     {
       "headline": "FIIs were net buyers of Rs 1689.85 crore in index futures and options segments on October 16",
       "date": "17-10-2026 10:33"
@@ -49,15 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 2,54,52,298.88 crore on October 16",
       "date": "17-10-2026 10:29"
-    },
-    {
-      "headline": "Nifty ends higher for second straight session on Friday",
-      "date": "16-10-2026 17:24"
-    },
-    {
-      "headline": "Nifty October 2026 futures close at discount of 33.15 points over spot closing",
-      "date": "16-10-2026 16:53"
     }
   ],
-  "lastUpdated": "2026-10-19T11:06:19.496Z"
+  "lastUpdated": "2026-10-19T17:40:14.413Z"
 }
