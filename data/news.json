@@ -1,6 +1,22 @@
 {
   "general": [
     {
+      "headline": "Jindal Stainless reports 11% rise in Q2 consolidated net profit",
+      "date": "22-10-2026 18:24"
+    },
+    {
+      "headline": "Innovision bags order worth Rs 94.97 crore from NHAI",
+      "date": "22-10-2026 18:05"
+    },
+    {
+      "headline": "Swiggy’s consolidated net loss narrows to Rs 922 crore in Q2",
+      "date": "22-10-2026 17:40"
+    },
+    {
+      "headline": "Adani Ports’ arm incorporates wholly owned subsidiary in Sultanate of Oman",
+      "date": "22-10-2026 17:22"
+    },
+    {
       "headline": "KSH International gets PGCIL’s approval for 765 kV transformer components",
       "date": "22-10-2026 16:59"
     },
@@ -23,25 +39,17 @@
     {
       "headline": "L&T’s Heavy Engineering vertical dispatches 8th steam generator for India's civil nuclear power programme",
       "date": "22-10-2026 15:58"
-    },
-    {
-      "headline": "Tech Mahindra collaborates with SpaceXSI",
-      "date": "22-10-2026 15:44"
-    },
-    {
-      "headline": "Bondada Engineering secures LoI from GIPCL",
-      "date": "22-10-2026 15:29"
-    },
-    {
-      "headline": "Havells India reports 10% rise in Q2 consolidated net profit",
-      "date": "22-10-2026 15:15"
-    },
-    {
-      "headline": "CORONA Remedies gets GMP certification from Brazilian Health Regulatory Agency",
-      "date": "22-10-2026 14:58"
     }
   ],
   "derivative": [
+    {
+      "headline": "Nifty ends lower with cut of over half percent on Thursday",
+      "date": "22-10-2026 17:19"
+    },
+    {
+      "headline": "Nifty October 2026 futures close at premium of 35.45 points over spot closing",
+      "date": "22-10-2026 16:34"
+    },
     {
       "headline": "FIIs were net sellers of Rs 8902.64 crore in index futures and options segments on October 21",
       "date": "22-10-2026 09:28"
@@ -49,15 +57,7 @@
     {
       "headline": "F&O total turnover stood at Rs 1,29,24,531.88 crore on October 21",
       "date": "22-10-2026 09:24"
-    },
-    {
-      "headline": "Nifty ends lower for second straight session on Wednesday",
-      "date": "21-10-2026 17:15"
-    },
-    {
-      "headline": "Nifty October 2026 futures close at discount of 66.35 points over spot closing",
-      "date": "21-10-2026 16:56"
     }
   ],
-  "lastUpdated": "2026-10-22T11:30:01.948Z"
+  "lastUpdated": "2026-10-22T16:00:04.397Z"
 }
