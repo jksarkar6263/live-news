@@ -1,47 +1,55 @@
 {
   "general": [
     {
+      "headline": "Indian Hotels Company reports 23% rise in Q2 consolidated net profit",
+      "date": "22-10-2026 11:14"
+    },
+    {
+      "headline": "HCL Technologies launches NVIDIA-powered AI V&V solution for Auto",
+      "date": "22-10-2026 10:59"
+    },
+    {
+      "headline": "Sagility acquires Chirok Health",
+      "date": "22-10-2026 10:42"
+    },
+    {
+      "headline": "Bharat Electronics secures additional orders worth Rs 1,011 crore",
+      "date": "22-10-2026 10:27"
+    },
+    {
+      "headline": "Grasim Industries starts commercial production at Epichlorohydrin plant in Gujarat",
+      "date": "22-10-2026 10:12"
+    },
+    {
+      "headline": "Indian Hotels Company opens Vivanta Indore in Madhya Pradesh",
+      "date": "22-10-2026 09:57"
+    },
+    {
+      "headline": "Seamec enters into contract with HAL Offshore",
+      "date": "22-10-2026 09:45"
+    },
+    {
+      "headline": "Omnitech Engineering secures orders from Indian Defence Organisations",
+      "date": "22-10-2026 09:30"
+    },
+    {
+      "headline": "Refex Industries bags slab-wise rate contract worth Rs 31.45 crore",
+      "date": "22-10-2026 09:16"
+    },
+    {
       "headline": "Icon Facilitators bags order from Noida Cyber Park",
       "date": "21-10-2026 18:25"
-    },
-    {
-      "headline": "Ashish Kacholia sells 1% stake in Xpro India",
-      "date": "21-10-2026 18:17"
-    },
-    {
-      "headline": "Kiri Industries incorporates wholly owned subsidiary in Chile",
-      "date": "21-10-2026 18:03"
-    },
-    {
-      "headline": "Eternal’s consolidated net profit jumps 92% in Q2",
-      "date": "21-10-2026 17:45"
-    },
-    {
-      "headline": "Kiaasa Retail launches premium no-discount brand ‘VIRASAT-Affordably Luxurious’ during Navratri",
-      "date": "21-10-2026 17:26"
-    },
-    {
-      "headline": "SRF’s Q2 consolidated net profit rises 31%",
-      "date": "21-10-2026 16:59"
-    },
-    {
-      "headline": "Adani Green Energy reports 15% rise in Q2 consolidated net profit",
-      "date": "21-10-2026 16:44"
-    },
-    {
-      "headline": "Bharat Parenterals’ arm commences commercial supply to United States",
-      "date": "21-10-2026 16:29"
-    },
-    {
-      "headline": "Royal Orchid Hotels’ arm launches new property in Kota",
-      "date": "21-10-2026 16:15"
-    },
-    {
-      "headline": "Apeejay Surrendra Park Hotels signs agreement for Zone Connect by The Park Aurangabad",
-      "date": "21-10-2026 15:58"
     }
   ],
   "derivative": [
+    {
+      "headline": "FIIs were net sellers of Rs 8902.64 crore in index futures and options segments on October 21",
+      "date": "22-10-2026 09:28"
+    },
+    {
+      "headline": "F&O total turnover stood at Rs 1,29,24,531.88 crore on October 21",
+      "date": "22-10-2026 09:24"
+    },
     {
       "headline": "Nifty ends lower for second straight session on Wednesday",
       "date": "21-10-2026 17:15"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty October 2026 futures close at discount of 66.35 points over spot closing",
       "date": "21-10-2026 16:56"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 28703.13 crore in index futures and options segments on October 19",
-      "date": "21-10-2026 09:26"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 6,36,44,779.11 crore on October 19",
-      "date": "21-10-2026 09:18"
     }
   ],
-  "lastUpdated": "2026-10-22T00:31:38.978Z"
+  "lastUpdated": "2026-10-22T05:53:23.984Z"
 }
