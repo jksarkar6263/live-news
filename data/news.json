@@ -1,47 +1,55 @@
 {
   "general": [
     {
+      "headline": "Loyal Equipments bags purchase order from Linde GmbH",
+      "date": "24-10-2026 14:06"
+    },
+    {
+      "headline": "GE Shipping contracts to buy secondhand Very Large Gas Carrier",
+      "date": "24-10-2026 13:14"
+    },
+    {
+      "headline": "Highway Infrastructure secures LoA worth Rs 340.07 crore from NHAI",
+      "date": "24-10-2026 12:48"
+    },
+    {
+      "headline": "USFDA completes pre-approval inspection at Gufic Biosciences’ Indore facility",
+      "date": "24-10-2026 12:32"
+    },
+    {
+      "headline": "ACME Solar Holdings commissions additional battery storage capacity of 17.91 MW in Rajasthan",
+      "date": "24-10-2026 12:00"
+    },
+    {
+      "headline": "DOMS Industries incorporates wholly owned subsidiary",
+      "date": "24-10-2026 11:31"
+    },
+    {
+      "headline": "Lemon Tree Hotels signs new hotel in Rajasthan",
+      "date": "24-10-2026 11:06"
+    },
+    {
+      "headline": "RailTel Corporation of India bags LoI worth Rs 20.04 crore",
+      "date": "24-10-2026 10:44"
+    },
+    {
+      "headline": "KEC International secures orders worth Rs 2,872 crore",
+      "date": "24-10-2026 10:12"
+    },
+    {
       "headline": "Jupiter Wagons enters into non-binding MoU with PESA",
       "date": "23-10-2026 18:25"
-    },
-    {
-      "headline": "Tata Motors turns black in Q2FY27",
-      "date": "23-10-2026 18:02"
-    },
-    {
-      "headline": "Kilitch Drugs (India) gets nod to divest entire stake in Ethiopian subsidiary",
-      "date": "23-10-2026 17:45"
-    },
-    {
-      "headline": "JSW Steel reports over three-fold jump in Q2 consolidated net profit",
-      "date": "23-10-2026 17:23"
-    },
-    {
-      "headline": "Granules India incorporates wholly owned subsidiary in Mexico",
-      "date": "23-10-2026 16:58"
-    },
-    {
-      "headline": "We Win bags work order worth Rs 4.36 crore",
-      "date": "23-10-2026 16:44"
-    },
-    {
-      "headline": "Tech Mahindra acquires Finastra’s cash management product suite",
-      "date": "23-10-2026 16:27"
-    },
-    {
-      "headline": "GK Energy bags LoA worth Rs 330.29 crore from MSEDCL",
-      "date": "23-10-2026 16:14"
-    },
-    {
-      "headline": "Safety Controls & Devices bags LoA worth Rs 10.16 crore",
-      "date": "23-10-2026 15:59"
-    },
-    {
-      "headline": "Shriram Finance’s consolidated net profit jumps 59% in Q2",
-      "date": "23-10-2026 15:28"
     }
   ],
   "derivative": [
+    {
+      "headline": "F&O total turnover stood at Rs 2,44,44,598.51 crore on October 23",
+      "date": "24-10-2026 10:08"
+    },
+    {
+      "headline": "FIIs were net buyers of Rs 12324.19 crore in index futures and options segments on October 23",
+      "date": "24-10-2026 10:05"
+    },
     {
       "headline": "Nifty ends lower for fourth straight session on Friday",
       "date": "23-10-2026 17:17"
@@ -49,15 +57,7 @@
     {
       "headline": "Nifty October 2026 futures close at discount of 11.00 points over spot closing",
       "date": "23-10-2026 16:39"
-    },
-    {
-      "headline": "FIIs were net sellers of Rs 7187.65 crore in index futures and options segments on October 22",
-      "date": "23-10-2026 09:25"
-    },
-    {
-      "headline": "F&O total turnover stood at Rs 1,22,14,686.57 crore on October 22",
-      "date": "23-10-2026 09:21"
     }
   ],
-  "lastUpdated": "2026-10-24T04:22:20.341Z"
+  "lastUpdated": "2026-10-24T09:02:30.850Z"
 }
