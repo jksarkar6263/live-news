@@ -1,6 +1,26 @@
 {
   "general": [
     {
+      "headline": "NCC bags eight orders worth Rs 1862.45 crore",
+      "date": "31-10-2026 18:26"
+    },
+    {
+      "headline": "Dixon Technologies reports 49% fall in Q2 consolidated net profit",
+      "date": "31-10-2026 17:56"
+    },
+    {
+      "headline": "Delhivery gets nod to invest upto Rs 36 crore in ‘Delhivery Fintech Distribution’",
+      "date": "31-10-2026 17:32"
+    },
+    {
+      "headline": "Sai Silks opens new store under ‘Kalamandir’ format in Bangalore",
+      "date": "31-10-2026 17:05"
+    },
+    {
+      "headline": "Shyam Metalics gets nod to acquire 51% stake in Alom Solar",
+      "date": "31-10-2026 16:41"
+    },
+    {
       "headline": "ACME Solar Holdings commissions additional 88.02 MW BESS capacity in Rajasthan",
       "date": "31-10-2026 16:08"
     },
@@ -19,26 +39,6 @@
     {
       "headline": "Gayatri Projects bags contract worth Rs 342 crore from B-RIDE",
       "date": "31-10-2026 14:09"
-    },
-    {
-      "headline": "Anup Engineering acquires 10% stake in Arvind GCC",
-      "date": "31-10-2026 12:55"
-    },
-    {
-      "headline": "Juniper Green Energy incorporates wholly owned subsidiary",
-      "date": "31-10-2026 12:24"
-    },
-    {
-      "headline": "Indian Oil Corporation reports around three-fold jump in Q2 consolidated net profit",
-      "date": "31-10-2026 11:49"
-    },
-    {
-      "headline": "Alembic Pharmaceuticals gets USFDA’s final nod for Venetoclax Tablets",
-      "date": "31-10-2026 11:20"
-    },
-    {
-      "headline": "Bharat Electronics reports 20% rise in Q2 consolidated net profit",
-      "date": "31-10-2026 10:55"
     }
   ],
   "derivative": [
@@ -59,5 +59,5 @@
       "date": "30-10-2026 16:47"
     }
   ],
-  "lastUpdated": "2026-10-31T11:05:41.515Z"
+  "lastUpdated": "2026-10-31T16:15:06.940Z"
 }
